@@ -3,11 +3,10 @@ package Searching;
 public class SquareRootInteger {
 
     public static void main(String[] args) {
-        //suppose the array is infinite
-        int actualSquareNumber = 146;
+        int actualSquareNumber = 226;
         int lowerBoundIndex = 0;
         int upperBoundIndex = actualSquareNumber - 1;
-        System.out.println(getSquareRootOfTheNumber(actualSquareNumber, lowerBoundIndex, upperBoundIndex));
+        System.out.println("Square Root is: " + getSquareRootOfTheNumber(actualSquareNumber, lowerBoundIndex, upperBoundIndex));
     }
 
     private static int getSquareRootOfTheNumber(int actualSquareNumber, int lowerBoundIndex, int upperBoundIndex) {
@@ -27,9 +26,10 @@ public class SquareRootInteger {
          }
          System.out.println("lower Bound Index: " + lowerBoundIndex);
          System.out.println("Upper Bound Index: " + upperBoundIndex);
-         System.out.println("Middle Bound Index: " + middleIndex);
+         System.out.println("Middle Bound Index before last run: " + middleIndex);
+         middleIndex = (lowerBoundIndex + upperBoundIndex)/2;
          if(middleIndex*middleIndex > actualSquareNumber)
-             upperBoundIndex = upperBoundIndex - 1;
-         return  upperBoundIndex;
+             middleIndex = middleIndex - 1;
+         return  middleIndex;
     }
 }
