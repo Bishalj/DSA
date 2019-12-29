@@ -9,6 +9,7 @@ public class SquareRootInteger {
         System.out.println("Square Root is: " + getSquareRootOfTheNumber(actualSquareNumber, lowerBoundIndex, upperBoundIndex));
     }
 
+    //Time Complexity is BigO(Log(actualSquareNumber))
     private static int getSquareRootOfTheNumber(int actualSquareNumber, int lowerBoundIndex, int upperBoundIndex) {
         if(actualSquareNumber == 0 || actualSquareNumber == 1)
             return actualSquareNumber;
