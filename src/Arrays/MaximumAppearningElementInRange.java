@@ -25,6 +25,13 @@ public class MaximumAppearningElementInRange {
         return getTheMaximumFrequencyNumberFromMap(map);
     }
 
+    private static void increaseTheFrequencyOfKeyInMap(Integer key, Map<Integer, Integer> map) {
+        if(map.get(key) == null)
+            map.put(key, 1);
+        else
+            map.put(key, map.get(key) + 1);
+    }
+
     private static int getTheMaximumFrequencyNumberFromMap(Map<Integer, Integer> map) {
         int maxValue = Integer.MIN_VALUE;
         int maximumFrequencyElement = 0;
@@ -37,10 +44,5 @@ public class MaximumAppearningElementInRange {
         return maximumFrequencyElement;
     }
 
-    private static void increaseTheFrequencyOfKeyInMap(Integer key, Map<Integer, Integer> map) {
-        if(map.get(key) == null)
-            map.put(key, 1);
-        else
-            map.put(key, map.get(key) + 1);
-    }
+
 }
