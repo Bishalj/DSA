@@ -75,7 +75,7 @@ public class LinkList {
         System.out.println();
     }
 
-    int getTheMiddleElementInALinklist(){
+    int getTheMiddleElementInALinklistNaive(){
         Node node = head;
         int count = 0;
         while (node != null) {
@@ -87,5 +87,35 @@ public class LinkList {
         while(count-- != 0)
             node = node.next;
         return node == null ? -9999999 : node.data;
+    }
+
+    int getTheMiddleElementInALinklist(){
+        Node node = head;
+        int count = 0;
+        Node middleNode = head;
+        while (node != null) {
+            node = node.next;
+            count++;
+            if(count%2 == 0)
+                middleNode = middleNode.next;
+        }
+        return middleNode == null ? -100 : middleNode.data;
+    }
+
+    int getNthNodeOfTheLinkList(int n){
+        Node node = head;
+        int count = 1;
+        Node resultNode = null;
+        while(node != null){
+            if(count - n >= 0){
+                if(resultNode == null)
+                    resultNode = head;
+                else
+                    resultNode = resultNode.next;
+            }
+            node = node.next;
+            count++;
+        }
+        return resultNode == null ? Integer.MIN_VALUE : resultNode.data;
     }
 }
