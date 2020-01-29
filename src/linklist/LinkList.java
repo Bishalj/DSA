@@ -74,4 +74,18 @@ public class LinkList {
         }
         System.out.println();
     }
+
+    int getTheMiddleElementInALinklist(){
+        Node node = head;
+        int count = 0;
+        while (node != null) {
+            node = node.next;
+            count++;
+        }
+        count = count/2;
+        node = head;
+        while(count-- != 0)
+            node = node.next;
+        return node == null ? -9999999 : node.data;
+    }
 }
