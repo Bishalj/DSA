@@ -15,6 +15,17 @@ public class LinkList {
         }
     }
 
+    void insertEnd(Node tempNode){
+        if(head == null)
+            head = tempNode;
+        else {
+            Node node = head;
+            while (node.next != null)
+                node = node.next;
+            node.next = tempNode;
+        }
+    }
+
     void insertBegin(int data){
         Node tempNode = new Node(data);
         tempNode.next = head;
@@ -118,4 +129,50 @@ public class LinkList {
         }
         return resultNode == null ? Integer.MIN_VALUE : resultNode.data;
     }
+
+    void reverseTheLinkList(){
+        Node node = head;
+        Node previousNode = null;
+        Node tempNode = null;
+        while (node != null){
+            tempNode = previousNode;
+            previousNode = node;
+            node = node.next;
+            previousNode.next = tempNode;
+        }
+        head = previousNode;
+    }
+
+    void reverseTheLinkListRecursive(){
+        Node previousNode = null;
+        Node currentNode = head;
+        head = reverseTheLlist(previousNode, currentNode);
+        display();
+    }
+
+    private Node reverseTheLlist(Node previousNode, Node currentNode) {
+        if(currentNode == null)
+            return previousNode;
+        Node tempNode = currentNode;
+        currentNode = currentNode.next;
+        tempNode.next = previousNode;
+
+        return reverseTheLlist(tempNode, currentNode);
+    }
+
+    public Node getHead(){
+        return head;
+    }
+
+//    void reverseTheLinkLis1t(){
+//        Node nextNode = head;
+//        Node previousNode = null;
+//        Node currentNode = head;
+//        while (nextNode != null){
+//            previousNode = currentNode;
+//            nextNode = nextNode.next;
+//            currentNode.next = previousNode;
+//        }
+//        head = currentNode;
+//    }
 }
