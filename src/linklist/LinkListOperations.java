@@ -46,6 +46,12 @@ public class LinkListOperations {
         System.out.println("The "+ k +"th element is: " + linkList.getNthNodeOfTheLinkList(k) );
         linkList.deleteValue(-10);
         linkList.display();
+        System.out.println("---------------------Swap--------------------");
+        PairwiseSwapNodes.swapNodes(linkList);
+        linkList.display();
+        System.out.println("Segregate----------------------------");
+        Node result = SegregateEvenOddNodesOfLinkedList.segregateEvenOddNodes1(linkList);
+        SegregateEvenOddNodesOfLinkedList.display(result);
         System.out.println(linkList.getTheMiddleElementInALinklist());
         System.out.println("The "+ k +"th element is: " + linkList.getNthNodeOfTheLinkList(k) );
 //        linkList.deleteValue(1);
@@ -90,11 +96,23 @@ public class LinkListOperations {
         Node node2 = new Node(5);
         linkList.insertEnd(node2);
         Node node3 = new Node(6);
-//        node3.next = node3;
+        node3.next = node3;
         linkList.insertEnd(node3);
         Node node4 = new Node(7);
-//        node4.next = node1;
+        node4.next = node1;
         System.out.println(DetectALoop.isAloopPresentInLinklist(linkList));
+        RemoveALoopInLinkList.removeALoop(linkList);
+        System.out.println(DetectALoopUsingTemporaryNode.isLoopPersent(linkList));
+
+        System.out.println(DetectALoop.isAloopPresentInLinklist(linkList));
+        RemoveALoopInLinkList.removeALoop(linkList);
+        System.out.println(DetectALoopUsingTemporaryNode.isLoopPersent(linkList));
+        linkList.display();
+        PairwiseSwapNodes.swapNodes(linkList);
+        linkList.display();
+//        Node result = SegregateEvenOddNodesOfLinkedList.segregateEvenOddNodes(linkList);
+//        SegregateEvenOddNodesOfLinkedList.display(result);
+
 
     }
 }
