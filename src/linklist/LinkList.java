@@ -3,6 +3,10 @@ package linklist;
 public class LinkList {
     private Node head;
 
+    public void setHead(Node head) {
+        this.head = head;
+    }
+
     void insertEnd(int data){
         Node tempNode = new Node(data);
         if(head == null)
