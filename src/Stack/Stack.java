@@ -44,13 +44,14 @@ public class Stack {
         if(isStackEmpty())
             System.out.println("Stack is under flow");
         else
-            System.out.println("Data to be popped: " + array[top--]);
+//            System.out.println("Data to be popped: " + array[top--]);
+        top--;
     }
 
     public int peek() {
 //        if(top == -1)
 //            return -1;
-        System.out.println("Peek element is: " + array[top]);
+//        System.out.println("Peek element is: " + array[top]);
         return array[top];
     }
 
