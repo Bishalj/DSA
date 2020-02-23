@@ -6,7 +6,7 @@ public class Node {
     //These kind of classes are know as self referential structures
     public Node next;
 
-    Node(int data){
+    public Node(int data){
         this.data = data;
     }
 }

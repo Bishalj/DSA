@@ -17,7 +17,7 @@ public class KadaneAlgorithm {
 
             //If the first element is negative then you shouldn't consider it
             if(array[startIndex] <= 0){
-                //having this condition if the maximum sum is -ve
+                //having this condition if the maximum displayMaximum is -ve
                 if(isValueGreaterThanMaximum(array[startIndex], max_summation_value))
                     max_summation_value = array[startIndex];
 
@@ -35,7 +35,7 @@ public class KadaneAlgorithm {
                 count_of_summation_value += array[endIndex++];
 
                 /*if the summation of the previous numbers are less than zero then
-                you shouldn't consider it as it will decrease the sum*/
+                you shouldn't consider it as it will decrease the displayMaximum*/
                 if(isValueLessThanEqualToZero(count_of_summation_value)){
                     count_of_summation_value = 0;
                     startIndex = endIndex;
