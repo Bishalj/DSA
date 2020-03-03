@@ -15,8 +15,8 @@ public class LongestSubarrayWithEqualZeroAndOne {
         Map<Integer, Integer> summationValueLocationMap = new HashMap<>(arr.length);
 
         /*Assume 0 as -1
-        * So whenever the sum value is zero the the count of number of 1's & 0's are same
-        * And if the sum value exists previously then the count value 1's and 0's from that position to the current position is same
+        * So whenever the displayMaximum value is zero the the count of number of 1's & 0's are same
+        * And if the displayMaximum value exists previously then the count value 1's and 0's from that position to the current position is same
         * */
 
         int sum = 0, longestSubarrayLength = 0, tempSubArrayLength = 0;

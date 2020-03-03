@@ -110,7 +110,7 @@ public class LinkListOperations {
         linkList.display();
         PairwiseSwapNodes.swapNodes(linkList);
         linkList.display();
-//        Node result = SegregateEvenOddNodesOfLinkedList.segregateEvenOddNodes(linkList);
+//        Nodes result = SegregateEvenOddNodesOfLinkedList.segregateEvenOddNodes(linkList);
 //        SegregateEvenOddNodesOfLinkedList.display(result);
 
 

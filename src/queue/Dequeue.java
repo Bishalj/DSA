@@ -34,7 +34,7 @@ public class Dequeue {
 
     public void addEnd(int data){
         Node node = new Node(data);
-//        Node head = front;
+//        Nodes head = front;
         if(front == null) {
             front = node;
             rear = node;

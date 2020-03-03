@@ -13,8 +13,8 @@ public class SubArrayWithZeroSum {
         int sumOfArrayElements =0;
         Set<Integer> set = new HashSet<>(array.length);
         for (Integer value : array) {
-            /*Adding the sum as if the sum is zero at any contiguous position
-            then the sum goes back to the same number again
+            /*Adding the displayMaximum as if the displayMaximum is zero at any contiguous position
+            then the displayMaximum goes back to the same number again
             Eg -> array = {1, 4, 13, -3, -10, 5}
                 summationSet = {1, 5, 18, 15, 5, 10}
                 as 5 gets repeated only because the summation is zero

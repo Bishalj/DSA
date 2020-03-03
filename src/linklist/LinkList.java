@@ -7,7 +7,7 @@ public class LinkList {
         this.head = head;
     }
 
-    void insertEnd(int data){
+    public void insertEnd(int data){
         Node tempNode = new Node(data);
         if(head == null)
             head = tempNode;
@@ -19,7 +19,7 @@ public class LinkList {
         }
     }
 
-    void insertEnd(Node tempNode){
+    public  void insertEnd(Node tempNode){
         if(head == null)
             head = tempNode;
         else {
@@ -30,13 +30,13 @@ public class LinkList {
         }
     }
 
-    void insertBegin(int data){
+    public void insertBegin(int data){
         Node tempNode = new Node(data);
         tempNode.next = head;
         head =tempNode;
     }
 
-    void insertAtIndex(int data, int index){
+    public void insertAtIndex(int data, int index){
         if(head == null || index <= 1){
             insertBegin(data);
             return;
@@ -81,7 +81,7 @@ public class LinkList {
         }
     }
 
-    void display(){
+    public void display(){
         Node node = head;
         while (node != null){
             System.out.print(node.data + " ");
@@ -90,7 +90,7 @@ public class LinkList {
         System.out.println();
     }
 
-    int getTheMiddleElementInALinklistNaive(){
+    public int getTheMiddleElementInALinklistNaive(){
         Node node = head;
         int count = 0;
         while (node != null) {
@@ -104,7 +104,7 @@ public class LinkList {
         return node == null ? -9999999 : node.data;
     }
 
-    int getTheMiddleElementInALinklist(){
+    public int getTheMiddleElementInALinklist(){
         Node node = head;
         int count = 0;
         Node middleNode = head;
@@ -117,7 +117,7 @@ public class LinkList {
         return middleNode == null ? -100 : middleNode.data;
     }
 
-    int getNthNodeOfTheLinkList(int n){
+    public int getNthNodeOfTheLinkList(int n){
         Node node = head;
         int count = 1;
         Node resultNode = null;
@@ -134,7 +134,7 @@ public class LinkList {
         return resultNode == null ? Integer.MIN_VALUE : resultNode.data;
     }
 
-    void reverseTheLinkList(){
+    public void reverseTheLinkList(){
         Node node = head;
         Node previousNode = null;
         Node tempNode = null;
@@ -147,7 +147,7 @@ public class LinkList {
         head = previousNode;
     }
 
-    void reverseTheLinkListRecursive(){
+    public void reverseTheLinkListRecursive(){
         Node previousNode = null;
         Node currentNode = head;
         head = reverseTheLlist(previousNode, currentNode);
@@ -168,10 +168,14 @@ public class LinkList {
         return head;
     }
 
+    public boolean isEmpty(){
+        return head == null;
+    }
+
 //    void reverseTheLinkLis1t(){
-//        Node nextNode = head;
-//        Node previousNode = null;
-//        Node currentNode = head;
+//        Nodes nextNode = head;
+//        Nodes previousNode = null;
+//        Nodes currentNode = head;
 //        while (nextNode != null){
 //            previousNode = currentNode;
 //            nextNode = nextNode.next;

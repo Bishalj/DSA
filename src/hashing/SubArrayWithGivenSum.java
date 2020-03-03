@@ -15,8 +15,8 @@ public class SubArrayWithGivenSum {
         Map<Integer, Integer> map = new HashMap<>(array.length);
         int max =0;
         for (int i=0; i<array.length; i++) {
-            /*Adding the sum as if the sum is the given number at any contiguous position
-            then the sum goes back to the same number again
+            /*Adding the displayMaximum as if the displayMaximum is the given number at any contiguous position
+            then the displayMaximum goes back to the same number again
             Eg -> array = {-5,-8,6,13,3,-1};
                 summationSet = {-5, -13, -7, 6, 9, 8}
                 We check: -> given num = 22

@@ -5,7 +5,7 @@ public class KthSmallestElement {
 
     public static void main(String[] args) {
         int array [] = {30, 20, 5, 10, 8};
-        int kthIndex=6;
+        int kthIndex=2;
         if( kthIndex > array.length - 1 || kthIndex < 0)
             return;
         displayArray(array);
