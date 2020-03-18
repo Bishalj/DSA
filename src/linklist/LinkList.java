@@ -138,13 +138,46 @@ public class LinkList {
         Node node = head;
         Node previousNode = null;
         Node tempNode = null;
-        while (node != null){
+        while (node != null ){
             tempNode = previousNode;
             previousNode = node;
             node = node.next;
             previousNode.next = tempNode;
         }
         head = previousNode;
+    }
+
+    public boolean isPalindrome(){
+        Node node = head;
+        Node previousNode = null;
+        Node tempNode = null;
+        Node nodeToCountElements = head;
+        int count = 0;
+        while (nodeToCountElements != null){
+            count++;
+            nodeToCountElements = nodeToCountElements.next;
+        }
+        int mid = count/2;
+        int numberOfTraversal = 0;
+        while (node != null && numberOfTraversal < mid){
+            numberOfTraversal++;
+            tempNode = previousNode;
+            previousNode = node;
+            node = node.next;
+            previousNode.next = tempNode;
+        }
+        Node startNode = previousNode;
+        if(count%2 != 0)
+            node = node.next;
+
+        while (startNode != null){
+            if(startNode.data != node.data)
+                return false;
+
+            startNode = startNode.next;
+            node = node.next;
+        }
+            return true;
     }
 
     public void reverseTheLinkListRecursive(){

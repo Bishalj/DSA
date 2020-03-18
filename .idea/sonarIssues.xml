@@ -8,12 +8,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/Arrays/LeftRotateAnArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/Arrays/LongSubOfEvenOdd.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/Arrays/MissingAndRepeatingNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Arrays/Test.java">
           <value>
             <set />
           </value>
@@ -84,6 +94,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/Sorting/KthSmallestElement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Sorting/MergeSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Sorting/QuickSort.java">
           <value>
             <set />
           </value>
@@ -179,6 +199,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/String/StringRotation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTreeMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/graph/Graph.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/graph/GraphOperations.java">
           <value>
             <set />
           </value>
@@ -403,6 +443,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/agent-pro/app/service/BrokerRestClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/agent-pro/conf/application.conf">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/agent-pro/conf/routes">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/test/com/admin/decentralised/operations/transferlog/services/impl/OperationLocationOperationsLocationTransferLogServiceImplTest.java">
           <value>
             <set />
@@ -428,6 +483,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/decentralisedrules/dao/impl/DecentralisationRulesElasticDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/decentralisedrules/dao/impl/DecentralisedRulesDao.java">
           <value>
             <set />
@@ -443,12 +503,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/decentralisedrules/service/impl/DecentralisationRulesElasticQueryServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/decentralisedrules/services/impl/DecentralisedRulesDerivationServiceImpl.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/operationslocation/constant/OperationLocationsMasterConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/operationslocation/controller/OperationsLocationAPI.java">
           <value>
             <set />
           </value>
@@ -464,6 +534,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/operationslocation/models/OperationsLocationMaster.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/operationslocation/service/IOperationLocationMasterService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/operationslocation/services/IOperationLocationMasterService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/operationslocation/services/impl/OperationsLocationServiceImpl.java">
           <value>
             <set />
           </value>
@@ -558,6 +643,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/constants/PolicyIssuanceConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/services/impl/PolicyIssuanceTransferOperationsLocationServiceImpl.java">
           <value>
             <set />
@@ -573,7 +663,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/mapper/AdminUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/mapper/MISUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/impl/PolicyDetailServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/services/elasticsearch/ElasticConfig.java">
           <value>
             <set />
           </value>
@@ -603,6 +708,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/decentralisedrules/dao/impl/DecentralisedRulesDaoImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/decentralisedrules/dao/impl/DecentralisedRulesDaoTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/decentralisedrules/initializer/DecentralisationRulesElasticQueryServiceInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/decentralisedrules/initializer/DecentralisedRulesQueryBuilderFixture.java">
           <value>
             <set />
@@ -623,12 +743,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/decentralisedrules/services/impl/DecentralisationRulesDerivationServiceImplTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/operationslocation/controller/OperationsLocationAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/operationslocation/controller/OperationsLocationAPITest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/operationslocation/dao/impl/OperationsLocationDaoImplTests.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/operationslocation/initializer/OperationLocationMasterInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/operationslocation/services/impl/OperationsLocationServiceImplTest.java">
           <value>
             <set />
           </value>
@@ -1308,6 +1448,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../playapi/Practice/src/goldmansachs/TestClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Downloads/Duplicate-Test/duplicateFile_RegistrationNumber.csv">
           <value>
             <set />
@@ -1329,6 +1474,11 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/Downloads/Duplicate-Test/src/main/java/com/example/DuplicateTest/PolicyRisk.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Duplicate-Test/src/main/resources/application.properties">
           <value>
             <set />
           </value>

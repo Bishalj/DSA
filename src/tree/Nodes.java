@@ -430,6 +430,75 @@ class BinaryTreeOperations{
         }
         return false;
     }
+
+    public void printSpiralTree(){
+        Nodes nodes = root;
+        printSpiralTree(nodes);
+        System.out.println();
+        System.out.println("########################");
+    }
+
+    private void printSpiralTree(Nodes nodes) {
+        Queue<Nodes> nodesQueue = new LinkedList<>();
+        nodesQueue.add(nodes);
+        int levelCounter = 1;
+        while (!nodesQueue.isEmpty()){
+            int count = nodesQueue.size();
+            levelCounter++;
+            for(int i=0; i< count; i++){
+                Nodes currentNode = nodesQueue.poll();
+                System.out.print(currentNode.data + " ");
+                if(levelCounter%2 != 0) {
+                    if (currentNode.left != null)
+                        nodesQueue.add(currentNode.left);
+                    if (currentNode.right != null)
+                        nodesQueue.add(currentNode.right);
+                }else{
+                    if (currentNode.right != null)
+                        nodesQueue.add(currentNode.right);
+                    if (currentNode.left != null)
+                        nodesQueue.add(currentNode.left);
+                }
+            }
+            System.out.println();
+        }
+    }
+
+    public int getTheDiameterOfTheTree(){
+        Nodes nodes = root;
+        return getTheDiameterOfTheTree(nodes);
+    }
+
+    public int getTheDiameterOfTheTree(Nodes nodes) {
+        if(nodes == null)
+            return 0;
+
+        int leftHeight =  getTheHeightOfTheTree(nodes.left);
+        int rightHeight =  getTheHeightOfTheTree(nodes.right);
+
+        int maxDiameter = leftHeight + rightHeight + 1;
+        int leftDiameter = getTheDiameterOfTheTree(nodes.left);
+        int rightDiameter = getTheDiameterOfTheTree(nodes.right);
+        if(leftDiameter > maxDiameter)
+            return leftDiameter;
+        if(rightDiameter > maxDiameter)
+            return rightDiameter;
+        return maxDiameter;
+    }
+
+    public int getTheHeightOfTheTree(Nodes nodes) {
+        if(nodes == null)
+            return 0;
+
+        int leftHeight = getTheHeightOfTheTree(nodes.left);
+        int rightHeight = getTheHeightOfTheTree(nodes.right);
+
+        if(leftHeight > rightHeight)
+            return leftHeight + 1;
+        else
+            return rightHeight + 1;
+    }
+
 }
 
 

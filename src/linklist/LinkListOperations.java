@@ -110,6 +110,11 @@ public class LinkListOperations {
         linkList.display();
         PairwiseSwapNodes.swapNodes(linkList);
         linkList.display();
+
+//        linkList.insertEnd(3);
+//        linkList.insertEnd(4);
+        linkList.display();
+        System.out.println(linkList.isPalindrome());
 //        Nodes result = SegregateEvenOddNodesOfLinkedList.segregateEvenOddNodes(linkList);
 //        SegregateEvenOddNodesOfLinkedList.display(result);
 

@@ -74,46 +74,21 @@ public class BinaryTreeMain {
         System.out.println(binaryTreeOperations.treeIsABalancedTree());
         System.out.println(binaryTreeOperations.maxWidthOfATree());
 
-        binaryTreeOperations.displayDoublyLinklist(binaryTreeOperations.createDoublyLinkList());
-        System.out.println();
+        binaryTreeOperations.levelOrderTraversalUsingQueueLineWise();
+        System.out.println("#############Spiral###################");
+        binaryTreeOperations.printSpiralTree();
+//        System.out.println("#############Spiral###################");
+//        binaryTreeOperations.displayDoublyLinklist(binaryTreeOperations.createDoublyLinkList());
+//        System.out.println();
         int[] inOrder = {40, 20, 50, 10, 30, 80, 70, 90};
-        int[] preOrder = {10, 20, 40, 50, 30, 70, 80, 90};
+        int[] preOrder = {10, 20, 40, 50, 30, 70,  80, 90};
         Nodes nodes = binaryTreeOperations.createTree(inOrder, preOrder);
         binaryTreeOperations.inOrderTraversal(nodes);
         System.out.println();
         binaryTreeOperations.postOrderTraversal(nodes);
-        List<Integer> sum = new ArrayList<>();
-        sum.add(1);
-        sum.add(2);
-        sum.add(3);
-        sum.add(1);
-
-        Optional<Integer> summation = sum
-                .parallelStream()
-                .reduce((acc , data) -> data+acc);
-
-        Double avg = sum
-                .parallelStream()
-                .mapToInt(i -> i)
-                .average()
-                .getAsDouble();
-
-
-        Map<String, String> map = new HashMap<>();
-
-
         System.out.println();
-        System.out.println(avg);
-        System.out.println(summation.get());
-
-        Collections.sort(sum, new mc());
-    }
-}
-
-class mc implements Comparator<Integer> {
-
-    @Override
-    public int compare(Integer o1, Integer o2) {
-        return o1.hashCode() - o2.hashCode();
+        System.out.println("Height of the tree: " + binaryTreeOperations.getTheHeightOfTheTree(nodes));
+        System.out.println();
+        System.out.println(binaryTreeOperations.getTheDiameterOfTheTree(nodes));
     }
 }

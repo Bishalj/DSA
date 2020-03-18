@@ -7,7 +7,7 @@ public class LeftRotateAnArray {
         int arr[] = {1,2,3,4,5};
         int numberOfTimesLeftRotate = 19;
 
-        arr = leftRotateArray(arr, numberOfTimesLeftRotate);
+        arr = rightRotateArray(arr, 1);
         displayArray(arr);
     }
 
@@ -19,6 +19,18 @@ public class LeftRotateAnArray {
             newArr[newArrayIndex++] = arr[i];
 
         for (int i=0; i<numberOfTimesLeftRotate; i++)
+            newArr[newArrayIndex++] = arr[i];
+        return newArr;
+    }
+
+    private static int[] rightRotateArray(int[] arr, int numberOfTimesRightRotate) {
+        int newArr[] = new int[arr.length];
+        numberOfTimesRightRotate = numberOfTimesRightRotate % arr.length;
+        int newArrayIndex = 0;
+        for(int i=arr.length - numberOfTimesRightRotate; i<arr.length; i++)
+            newArr[newArrayIndex++] = arr[i];
+
+        for (int i=0; i<arr.length - numberOfTimesRightRotate; i++)
             newArr[newArrayIndex++] = arr[i];
         return newArr;
     }

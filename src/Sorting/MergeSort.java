@@ -20,8 +20,44 @@ public class MergeSort {
 
         mergeSort(array, lowerBoundIndex, middleIndex);
         mergeSort(array, middleIndex + 1, upperBoundIndex);
-        mergeArray(array, lowerBoundIndex, middleIndex, upperBoundIndex);
+        mergeArray1(array, lowerBoundIndex, middleIndex, upperBoundIndex);
     }
+
+    private static void mergeArray1(int[] array, int lowerBoundIndex, int middleIndex, int upperBoundIndex) {
+        int leftArray[] = new int[middleIndex - lowerBoundIndex + 1];
+        int rightArray[] = new int[upperBoundIndex - middleIndex];
+
+        for (int i = lowerBoundIndex; i <=middleIndex; i++) {
+                leftArray[i - lowerBoundIndex] = array[i];
+        }
+        for (int i = middleIndex+1; i <=upperBoundIndex; i++) {
+            rightArray[i - middleIndex-1] = array[i];
+        }
+        int count =lowerBoundIndex;
+        int rightArrayCounter =0;
+        int leftArrayCounter =0;
+        while(leftArrayCounter < leftArray.length && rightArrayCounter < rightArray.length){
+            if(leftArray[leftArrayCounter] < rightArray[rightArrayCounter])
+                array[count++] = leftArray[leftArrayCounter++];
+            else
+                array[count++] = rightArray[rightArrayCounter++];
+        }
+
+        while (leftArrayCounter < leftArray.length)
+            array[count++] = leftArray[leftArrayCounter++];
+
+
+        while (rightArrayCounter < rightArray.length)
+            array[count++] = rightArray[rightArrayCounter++];
+    }
+
+
+
+
+
+
+
+
 
     private static void mergeArray(int[] array, int lowerBoundIndex, int middleIndex, int upperBoundIndex) {
         int leftArray[] = new int[middleIndex - lowerBoundIndex + 1];
