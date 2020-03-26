@@ -90,5 +90,34 @@ public class BinaryTreeMain {
         System.out.println("Height of the tree: " + binaryTreeOperations.getTheHeightOfTheTree(nodes));
         System.out.println();
         System.out.println(binaryTreeOperations.getTheDiameterOfTheTree(nodes));
+
+
+        System.out.println();
+        binaryTreeOperations.levelOrderTraversalUsingQueueLineWise();
+        System.out.println();
+        System.out.println(binaryTreeOperations.countNodesInACompleteBinaryTree(nodes));
+        System.out.println();
+        System.out.println("LCA " + binaryTreeOperations.getLowestCommonAncestor(nodes9, nodes2));
+
+        Nodes completeTree1 = new Nodes(10);
+        Nodes completeTree2 = new Nodes(20);
+        Nodes completeTree3 = new Nodes(30);
+        Nodes completeTree4 = new Nodes(40);
+        Nodes completeTree5 = new Nodes(50);
+        Nodes completeTree6 = new Nodes(60);
+        Nodes completeTree7 = new Nodes(70);
+        Nodes completeTree8 = new Nodes(80);
+        Nodes completeTree9 = new Nodes(90);
+        completeTree1.left =  completeTree2;
+        completeTree1.right =  completeTree3;
+        completeTree2.left = completeTree4;
+        completeTree2.right = completeTree5;
+        completeTree3.left = completeTree6;
+        completeTree3.right= completeTree7;
+        completeTree4.left = completeTree8;
+        completeTree4.right = completeTree9;
+        System.out.println();
+        System.out.println(binaryTreeOperations.countNodesInACompleteBinaryTreeSolution2(completeTree1));
+        System.out.println();
     }
 }

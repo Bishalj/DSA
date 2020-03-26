@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/Arrays/CharactersInAMatrix.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/Arrays/LeftRotateAnArray.java">
           <value>
             <set />
@@ -18,12 +23,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/Arrays/MaximumSubArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Arrays/MinimumLengthSubArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/Arrays/MissingAndRepeatingNumber.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/Arrays/NumberOfDays.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/Arrays/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Arrays/TheMaximumProfit.java">
           <value>
             <set />
           </value>
@@ -209,6 +234,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTreeMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/graph/CollapseRoad.java">
           <value>
             <set />
           </value>
@@ -418,6 +448,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/bulk-export/src/main/java/com/bishal/bulk/export/common/utils/database/DatabaseConnectionStoreUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/bulk-export/src/main/java/com/bishal/bulk/export/instant/service/impl/FileExportMetaDataServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/bulk-export/src/test/java/com/bishal/bulk/export/common/service/impl/ExportServiceBeanFactoryImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/bulk-export/src/test/java/com/bishal/bulk/export/database/initializer/DatabaseCredentialInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/bulk-export/src/test/java/com/bishal/bulk/export/database/service/impl/DatabaseCredentialServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/bulk-export/src/test/java/com/bishal/bulk/export/database/service/impl/TestDatabaseConnectionServiceImpl.java">
           <value>
             <set />
@@ -433,12 +488,57 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/bulk-export/src/test/java/com/bishal/bulk/export/instant/initializer/DataExportRequestMapperInitializeImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/bulk-export/src/test/java/com/bishal/bulk/export/instant/initializer/DataExportRequestMapperInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/bulk-export/src/test/java/com/bishal/bulk/export/instant/service/impl/FileExportMetaDataServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/bulk-export/src/test/java/com/bishal/bulk/export/instant/service/impl/TestFileExportMetaDataServiceImplTest.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/bulk-export/src/test/java/com/bishal/bulkExample/export/common/utils/database/DatabaseConnectionStoreUtilsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/bulk-export/src/test/java/com/bishal/bulkExample/export/database/service/impl/TestDatabaseConnectionServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/bulk-export/src/test/java/com/bishal/bulkExample/export/service/initialize/impl/DataExportRequestMapperInitializeImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/bulk-export/src/test/java/com/bishal/bulkExample/export/service/initialize/impl/DataExportRequestMapperInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/agent-pro/app/dao/elastic/AbstractElasticDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/agent-pro/app/dao/elastic/PolicyIssuanceElasticDAOImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/agent-pro/app/models/policyDetail/PolicyIssuance.java">
           <value>
             <set />
           </value>
@@ -503,6 +603,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/decentralisedrules/service/IDecentralisationRulesElasticQueryService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/decentralisedrules/service/impl/DecentralisationRulesElasticQueryServiceImpl.java">
           <value>
             <set />
@@ -548,6 +653,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/operationslocation/services/IOperationsLocationValidationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/operationslocation/services/impl/OperationsLocationServiceImpl.java">
           <value>
             <set />
@@ -559,6 +669,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/operationslocation/utils/OperationLocationsMasterQueryUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/operationsrules/dao/IOperationsRuleDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/operationsrules/dao/impl/OperationsRuleDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/operationsrules/model/OperationsRule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/operationsrules/services/IOperationsRulesService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/operationsrules/services/impl/OperationsRulesServiceImpl.java">
           <value>
             <set />
           </value>
@@ -648,6 +783,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/services/PolicyIssuanceService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/services/impl/PolicyIssuanceTransferOperationsLocationServiceImpl.java">
           <value>
             <set />
@@ -659,6 +799,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/renewals/services/dao/elastic/EPolicyEntriesServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/login/controllers/NinjaAuthenticator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/constants/MISDBFieldMapper.java">
           <value>
             <set />
           </value>
@@ -678,6 +828,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/turtlemint/policy/mapper/PolicyMapperService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/controllers/CommonAdminController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/logger/MDCPropagatingDispatcher.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/logger/MDCPropagatingDispatcherConfigurator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/services/elasticsearch/ElasticConfig.java">
           <value>
             <set />
@@ -689,6 +859,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/conf/routes">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/common/constant/DecentralisedConstantsTests.java">
           <value>
             <set />
           </value>
@@ -778,6 +953,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/operationsrule/services/impl/OperationsRuleServiceImplTestTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/transferlocation/service/impl/OperationsLocationTransferLogServiceImplTest.java">
           <value>
             <set />
@@ -804,6 +984,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/transferlog/initializer/model/TransferLogInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/transferlog/initializer/util/ModuleInitializer.java">
           <value>
             <set />
           </value>
@@ -1369,6 +1554,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtle-beans/src/main/java/com/turtle/beans/models/policyissuance/PolicyIssuance.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtle-constants/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtle-constants/src/main/java/com/turtle/enums/ModulesEnum.java">
           <value>
             <set />
           </value>

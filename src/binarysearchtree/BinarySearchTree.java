@@ -73,6 +73,46 @@ public class BinarySearchTree {
         return isATreeBST(node.left) && isATreeBST(node.right);
     }
 
+    boolean search(int data){
+        Node node = root;
+        while (node != null){
+            if(node.data == data)
+                return true;
+            else if(node.data < data)
+                node = node.right;
+            else
+                node = node.left;
+        }
+        return false;
+    }
+
+//    public void insertANode(int data) {
+//        Node nodeToBeInserted = new Node(data);
+//        Node node = root;
+//
+//        if(node == null)
+//            root = nodeToBeInserted;
+//        else{
+//            while (node != null){
+//                if(node.data < nodeToBeInserted.data){
+//                    if(node.right == null){
+//                        node.right = nodeToBeInserted;
+//                        return;
+//                    }
+//                    node = node.right;
+//                }else{
+//                    if(node.left == null){
+//                        node.left = nodeToBeInserted;
+//                        return;
+//                    }
+//                    node = node.left;
+//                }
+//            }
+//        }
+//
+//
+//    }
+
 }
 
 class Node{

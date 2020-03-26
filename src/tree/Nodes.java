@@ -2,10 +2,8 @@ package tree;
 
 import linklist.Node;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
+import java.util.*;
+import java.util.function.Predicate;
 
 public class Nodes {
     public Nodes left;
@@ -498,6 +496,122 @@ class BinaryTreeOperations{
         else
             return rightHeight + 1;
     }
+
+    public int getLowestCommonAncestor(Nodes node1, Nodes node2){
+        Nodes nodes = root;
+        return getLowestCommonAncestor(nodes, node1, node2);
+    }
+
+    private int getLowestCommonAncestor(Nodes nodes, Nodes node1, Nodes node2) {
+        Set<Nodes> lcaSetNode1 = new LinkedHashSet<>();
+        Set<Nodes> lcaSetNode2 = new LinkedHashSet<>();
+        boolean node1IsPresentInTree = calcutateLCA(nodes, node1, lcaSetNode1);
+        if(!node1IsPresentInTree)
+            return -1;
+
+        boolean node2IsPresentInTree = calcutateLCA(nodes, node2, lcaSetNode2);
+        if(!node2IsPresentInTree)
+            return -1;
+        return findTheLCA(lcaSetNode1, lcaSetNode2);
+    }
+
+    private boolean calcutateLCA(Nodes nodes, Nodes node1, Set<Nodes> lcaSet) {
+        if(nodes == null)
+            return false;
+
+        if(nodes == node1)
+            return true;
+
+        boolean isNodeMatchedOnLeft = calcutateLCA(nodes.left, node1, lcaSet);
+        if(isNodeMatchedOnLeft){
+            lcaSet.add(nodes);
+            return true;
+        }
+        boolean isNodeMatchedOnRight = calcutateLCA(nodes.right, node1, lcaSet);
+        if(isNodeMatchedOnRight){
+            lcaSet.add(nodes);
+            return true;
+        }
+        return false;
+    }
+
+
+
+
+    private int findTheLCA(Set<Nodes> lcaSetNode1, Set<Nodes> lcaSetNode2) {
+        for (Nodes n :
+                lcaSetNode1) {
+            System.out.print(n.data + " ");
+        }
+
+        System.out.println();
+
+        for (Nodes n :
+                lcaSetNode2) {
+            System.out.print(n.data + " ");
+        }
+        return lcaSetNode1
+                .parallelStream()
+                .filter(nodes -> lcaSetNode2.contains(nodes))
+                .findFirst()
+                .get()
+                .data;
+    }
+
+    public int countNodesInACompleteBinaryTree(Nodes node){
+        if(node == null)
+            return 0;
+
+        return  countNodesInACompleteBinaryTree(node.left) +
+                countNodesInACompleteBinaryTree(node.right) + 1;
+    }
+
+    public int countNodesInACompleteBinaryTreeSolution2(Nodes node){
+        if(node == null)
+            return 0;
+
+        int height = getTheMaxHeightOfTheBalanceTree(node);
+        int countOfLeafNodes[] = new int[1];
+        calculateTheCountOfLeafNodes(node, height-1, countOfLeafNodes);
+
+        return  countOfLeafNodes[0] + (int)Math.pow(2, height-1) - 1;
+    }
+
+    private boolean calculateTheCountOfLeafNodes(Nodes node, int height, int[] countOfLeafNodes) {
+        if(node == null)
+            return false;
+
+        if(height == 1){
+            if(node.left != null)
+                countOfLeafNodes[0] = countOfLeafNodes[0] + 1;
+            else
+                return false;
+
+            if(node.right != null)
+                countOfLeafNodes[0] = countOfLeafNodes[0] + 1;
+            else
+                return false;
+
+            return true;
+        }
+        boolean leftResult = calculateTheCountOfLeafNodes(node.left, height-1, countOfLeafNodes);
+        if(!leftResult)
+            return leftResult;
+        boolean rightResult = calculateTheCountOfLeafNodes(node.right, height-1, countOfLeafNodes);
+        if(!rightResult)
+            return rightResult;
+        return true;
+    }
+
+    private int getTheMaxHeightOfTheBalanceTree(Nodes node) {
+        int count = 0;
+        while (node != null){
+            count++;
+            node = node.left;
+        }
+        return count;
+    }
+
 
 }
 

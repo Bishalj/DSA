@@ -2,22 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="708dd2c6-a9ee-4ad5-95b7-dbd2f2ee30dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTreeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/GraphOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaximumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MinimumLengthSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/NumberOfDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TheMaximumProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graph/CollapseRoad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/LeftRotateAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/LeftRotateAnArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/LinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/LinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/LinkListOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/LinkListOperations.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DataStructure/tree/BinaryTreeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/tree/BinaryTreeMain.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DataStructure/tree/BinaryTreeOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/tree/BinaryTreeOperations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/LeftRotateAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/LeftRotateAnArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/tree/Nodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/tree/Nodes.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linklist/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linklist/LinkList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linklist/LinkListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linklist/LinkListOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTreeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTreeMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tree/BinaryTreeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/BinaryTreeMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tree/Nodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/Nodes.java" afterDir="false" />
     </list>
@@ -32,7 +28,7 @@
     <session id="-313080920">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="47" />
+          <entry key="project.closed" value="52" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
@@ -41,50 +37,52 @@
           <entry key="project.open.time.13" value="4" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="2" />
-          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.2" value="5" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.30" value="1" />
-          <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.31" value="2" />
+          <entry key="project.open.time.32" value="2" />
           <entry key="project.open.time.36" value="2" />
-          <entry key="project.open.time.4" value="6" />
+          <entry key="project.open.time.4" value="7" />
           <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.59" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.65" value="1" />
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="53" />
+          <entry key="project.opened" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="243" />
+          <entry key="java" value="287" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="243" />
+          <entry key="JAVA" value="287" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="72" />
-          <entry key="java" value="53632" />
+          <entry key="java" value="61390" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="53632" />
+          <entry key="JAVA" value="61390" />
           <entry key="PLAIN_TEXT" value="72" />
         </counts>
       </usages-collector>
@@ -93,13 +91,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/tree/Nodes.java">
+        <entry file="file://$PROJECT_DIR$/src/binarysearchtree/BinarySearchTreeMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="487" lean-forward="true" selection-start-line="487" selection-end-line="487" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="340">
+              <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -124,6 +119,7 @@
       <find>reverse</find>
       <find>queu</find>
       <find>Queue</find>
+      <find>22</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -132,12 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/linklist/DetectALoop.java" />
-        <option value="$PROJECT_DIR$/src/linklist/adf.java" />
-        <option value="$PROJECT_DIR$/src/linklist/Solution.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/LongSubOfEvenOdd.java" />
-        <option value="$PROJECT_DIR$/src/linklist/DetectALoopUsingTemporaryNode.java" />
-        <option value="$PROJECT_DIR$/src/linklist/RemoveALoopInLinkList.java" />
         <option value="$PROJECT_DIR$/src/linklist/DeleteNodeWithOnlyPointerGivenToIt.java" />
         <option value="$PROJECT_DIR$/src/linklist/SegregateEvenOddNodesOfLinkedList.java" />
         <option value="$PROJECT_DIR$/src/linklist/IntersectionPointBetweenTwoLinkList.java" />
@@ -171,8 +161,6 @@
         <option value="$PROJECT_DIR$/src/queue/Dequeue.java" />
         <option value="$PROJECT_DIR$/src/tree/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/tree/TestClass.java" />
-        <option value="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTreeMain.java" />
-        <option value="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/graph/Graph.java" />
         <option value="$PROJECT_DIR$/src/graph/GraphOperations.java" />
         <option value="$PROJECT_DIR$/src/Sorting/MergeSort.java" />
@@ -181,8 +169,16 @@
         <option value="$PROJECT_DIR$/src/Sorting/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/Arrays/LeftRotateAnArray.java" />
         <option value="$PROJECT_DIR$/src/Arrays/Test.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/NumberOfDays.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/CharactersInAMatrix.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/MaximumSubArray.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/MinimumLengthSubArray.java" />
+        <option value="$PROJECT_DIR$/src/graph/CollapseRoad.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/TheMaximumProfit.java" />
         <option value="$PROJECT_DIR$/src/tree/Nodes.java" />
         <option value="$PROJECT_DIR$/src/tree/BinaryTreeMain.java" />
+        <option value="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTreeMain.java" />
       </list>
     </option>
   </component>
@@ -194,8 +190,8 @@
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
-    <option name="width" value="1648" />
-    <option name="height" value="976" />
+    <option name="width" value="1408" />
+    <option name="height" value="826" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -203,8 +199,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,25 +218,18 @@
               <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="binarysearchtree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Course" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Revers&#9;PSI&#9;JAVA://linklist.LinkList#reverseTheLinkList" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584441921777" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585238744389" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -258,7 +248,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryTreeMain">
+  <component name="RunManager" selected="Application.BinarySearchTreeMain">
+    <configuration name="BinarySearchTreeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarysearchtree.BinarySearchTreeMain" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binarysearchtree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BinaryTreeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.BinaryTreeMain" />
       <module name="DataStructure" />
@@ -272,8 +275,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftRotateAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.LeftRotateAnArray" />
+    <configuration name="CollapseRoad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graph.CollapseRoad" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumLengthSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.MinimumLengthSubArray" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
@@ -285,34 +301,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkListOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linklist.LinkListOperations" />
-      <module name="DataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linklist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.MergeSort" />
-      <module name="DataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Test" />
+    <configuration name="TheMaximumProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.TheMaximumProfit" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
@@ -325,19 +315,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.MinimumLengthSubArray" />
+      <item itemvalue="Application.CollapseRoad" />
+      <item itemvalue="Application.TheMaximumProfit" />
       <item itemvalue="Application.BinaryTreeMain" />
-      <item itemvalue="Application.MergeSort" />
-      <item itemvalue="Application.LinkListOperations" />
-      <item itemvalue="Application.LeftRotateAnArray" />
-      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.BinarySearchTreeMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearchTreeMain" />
         <item itemvalue="Application.BinaryTreeMain" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.LeftRotateAnArray" />
-        <item itemvalue="Application.LinkListOperations" />
-        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.TheMaximumProfit" />
+        <item itemvalue="Application.CollapseRoad" />
+        <item itemvalue="Application.MinimumLengthSubArray" />
       </list>
     </recent_temporary>
   </component>
@@ -364,9 +354,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48083067" visible="true" weight="0.18154034" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48083067" visible="true" weight="0.14255014" />
       <window_info id="Structure" order="1" sideWeight="0.51916933" side_tool="true" weight="0.12652811" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -375,8 +366,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32984293" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32460734" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3591623" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33291924" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35900623" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32984293" />
@@ -396,7 +387,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Codota" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info active="true" anchor="right" id="Maven Projects" order="6" visible="true" weight="0.08801956" />
+      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.101002865" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Maven-2 Build" order="9" />
@@ -643,18 +634,6 @@
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/tree/Nodes.java</url>
-          <line>311</line>
-          <properties />
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/tree/Nodes.java</url>
-          <line>394</line>
-          <properties />
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/graph/GraphOperations.java</url>
           <line>6</line>
           <properties />
@@ -677,12 +656,6 @@
           <line>159</line>
           <properties />
           <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/tree/Nodes.java</url>
-          <line>441</line>
-          <properties />
-          <option name="timeStamp" value="85" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/Test.java</url>
@@ -708,6 +681,36 @@
           <properties />
           <option name="timeStamp" value="90" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/NumberOfDays.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/NumberOfDays.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tree/Nodes.java</url>
+          <line>569</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tree/Nodes.java</url>
+          <line>580</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tree/BinaryTreeMain.java</url>
+          <line>119</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -725,6 +728,26 @@
       </expression>
     </expressions>
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>arrayList.get(j-1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arrayList.get(j+1) -1 - arrayList.get(j-1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arrayList.get(j+1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>j+1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>query[1]</expression-string>
         <language-id>JAVA</language-id>
@@ -750,84 +773,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>stack.peek()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>patternString.charAt(i - word.length())</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>map.get(ss[position])</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>ss[position]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/linklist/CloneALinklist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/LRUCacheDesign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/DeleteNodeWithOnlyPointerGivenToIt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/SegregateEvenOddNodesOfLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/IntersectionPointBetweenTwoLinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/MissingAndRepeatingNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Stack/BalancedParenthesis.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -1089,20 +1037,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="77" column="6" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/binarysearchtree/BinarySearchTreeMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/graph/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1134,10 +1068,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/NumberOfDays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="47" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/CharactersInAMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/MaximumSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/MinimumLengthSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="37" column="24" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="37" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph/CollapseRoad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/TheMaximumProfit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="724">
+          <caret line="111" column="35" selection-start-line="111" selection-start-column="35" selection-end-line="111" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/BinaryTreeMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="91" column="61" selection-start-line="91" selection-start-column="61" selection-end-line="91" selection-end-column="61" />
+        <state relative-caret-position="230">
+          <caret line="119" column="76" selection-start-line="119" selection-start-column="76" selection-end-line="119" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1146,11 +1132,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/tree/Nodes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="487" lean-forward="true" selection-start-line="487" selection-end-line="487" />
+        <state relative-caret-position="305">
+          <caret line="603" column="5" selection-start-line="568" selection-start-column="2" selection-end-line="603" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binarysearchtree/BinarySearchTreeMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
         </state>
       </provider>
     </entry>
