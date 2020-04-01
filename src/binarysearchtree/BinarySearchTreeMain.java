@@ -1,27 +1,51 @@
 package binarysearchtree;
 
+import java.util.Vector;
+
 public class BinarySearchTreeMain {
 
     public static void main(String[] args) {
         BinarySearchTree binarySearchTree = new BinarySearchTree();
 
-        binarySearchTree.insert(50);
         binarySearchTree.insert(10);
-        binarySearchTree.insert(80);
-        binarySearchTree.insert(70);
-        binarySearchTree.insert(90);
-        binarySearchTree.insert(40);
-
-        binarySearchTree.insert(9);
-
+        binarySearchTree.insert(5);
+        binarySearchTree.insert(15);
+        binarySearchTree.insert(12);
+        binarySearchTree.insert(20);
         binarySearchTree.insert(8);
-        binarySearchTree.preOrderTraversal();
-        System.out.println(binarySearchTree.search(90));
-        System.out.println(binarySearchTree.search(40));
-        System.out.println(binarySearchTree.search(100));
-        System.out.println(binarySearchTree.search(9));
+        binarySearchTree.insert(11);
 
-        binarySearchTree.insert(55);
+        binarySearchTree.preOrderTraversal();
+        System.out.println(binarySearchTree.search(10));
+        System.out.println(binarySearchTree.search(40));
+        System.out.println(binarySearchTree.search(15));
+        System.out.println(binarySearchTree.search(20));
+        System.out.println("Binary Search tree");
         System.out.println(binarySearchTree.isATreeBST());
+        System.out.println();
+        System.out.println(binarySearchTree.gerFloorElement(14));
+        System.out.println();
+        System.out.println(binarySearchTree.getCeilElement(14));
+        System.out.println();
+        System.out.println(binarySearchTree.getCeilElement(3));
+        System.out.println();
+        System.out.println(binarySearchTree.getCeilElement(40));
+        System.out.println();
+        binarySearchTree.swapTwoNodesToMakeItBST();
+        System.out.println();
+        binarySearchTree.preOrderTraversal();
+        System.out.println();
+        System.out.println(binarySearchTree.isPairSumForAGivenSumExistInBST(17));
+
+        binarySearchTree.printTheVerticalSumInABinaryTree();
+
+        System.out.println();
+
+        binarySearchTree.printTheVerticalTraversalInABinaryTree();
+        System.out.println();
+        binarySearchTree.printTheTopViewInABinaryTree();
+        System.out.println();
+        binarySearchTree.printTheBottomViewInABinaryTree();
+
     }
 }

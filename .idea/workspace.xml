@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="708dd2c6-a9ee-4ad5-95b7-dbd2f2ee30dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MaximumSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MinimumLengthSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/NumberOfDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TheMaximumProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/CollapseRoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarysearchtree/TreeSetOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/streams/Java8Lambdas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/tree/BinaryTreeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/tree/BinaryTreeMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/tree/BinaryTreeOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/tree/BinaryTreeOperations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/tree/Nodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/tree/Nodes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/binarysearchtree/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/binarysearchtree/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/binarysearchtree/BinarySearchTreeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/binarysearchtree/BinarySearchTreeMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/binarysearchtree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/binarysearchtree/Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTreeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTreeMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/BinaryTreeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/BinaryTreeMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/Nodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/Nodes.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,20 +19,26 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DataStructure$TreeSetOperations.ic" NAME="TreeSetOperations Coverage Results" MODIFIED="1585545019185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>binarysearchtree.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-313080920">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="52" />
+          <entry key="project.closed" value="53" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="4" />
           <entry key="project.open.time.129" value="1" />
           <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.136" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="2" />
-          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.2" value="6" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.27" value="1" />
@@ -59,31 +60,31 @@
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="59" />
+          <entry key="project.opened" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="287" />
+          <entry key="java" value="354" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="287" />
+          <entry key="JAVA" value="354" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="72" />
-          <entry key="java" value="61390" />
+          <entry key="dummy" value="95" />
+          <entry key="java" value="65486" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="61390" />
-          <entry key="PLAIN_TEXT" value="72" />
+          <entry key="JAVA" value="65486" />
+          <entry key="PLAIN_TEXT" value="95" />
         </counts>
       </usages-collector>
     </session>
@@ -91,10 +92,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/binarysearchtree/BinarySearchTreeMain.java">
+        <entry file="file://$PROJECT_DIR$/src/binarysearchtree/GFG.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+            <state relative-caret-position="51">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -120,6 +121,7 @@
       <find>queu</find>
       <find>Queue</find>
       <find>22</find>
+      <find>b5 K^ O</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -128,9 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/linklist/DeleteNodeWithOnlyPointerGivenToIt.java" />
-        <option value="$PROJECT_DIR$/src/linklist/SegregateEvenOddNodesOfLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/linklist/IntersectionPointBetweenTwoLinkList.java" />
         <option value="$PROJECT_DIR$/src/linklist/PairwiseSwapNodes.java" />
         <option value="$PROJECT_DIR$/src/linklist/XorOps.java" />
         <option value="$PROJECT_DIR$/src/linklist/CloneALinklist.java" />
@@ -177,8 +176,11 @@
         <option value="$PROJECT_DIR$/src/Arrays/TheMaximumProfit.java" />
         <option value="$PROJECT_DIR$/src/tree/Nodes.java" />
         <option value="$PROJECT_DIR$/src/tree/BinaryTreeMain.java" />
-        <option value="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/binarysearchtree/TreeSetOperations.java" />
+        <option value="$PROJECT_DIR$/src/lambda/streams/Java8Lambdas.java" />
         <option value="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTreeMain.java" />
+        <option value="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/binarysearchtree/GFG.java" />
       </list>
     </option>
   </component>
@@ -188,7 +190,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1408" />
     <option name="height" value="826" />
@@ -199,8 +201,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -220,16 +220,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="binarysearchtree" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Revers&#9;PSI&#9;JAVA://linklist.LinkList#reverseTheLinkList" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585238744389" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585649096618" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -248,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinarySearchTreeMain">
+  <component name="RunManager" selected="Application.GfG">
     <configuration name="BinarySearchTreeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="binarysearchtree.BinarySearchTreeMain" />
       <module name="DataStructure" />
@@ -275,12 +283,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollapseRoad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="graph.CollapseRoad" />
+    <configuration name="GfG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarysearchtree.GfG" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="graph.*" />
+          <option name="PATTERN" value="binarysearchtree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,12 +296,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumLengthSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.MinimumLengthSubArray" />
+    <configuration name="Java8Lambdas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.streams.Java8Lambdas" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="lambda.streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,12 +309,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TheMaximumProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.TheMaximumProfit" />
+    <configuration name="TreeSetOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarysearchtree.TreeSetOperations" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="binarysearchtree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,19 +323,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MinimumLengthSubArray" />
-      <item itemvalue="Application.CollapseRoad" />
-      <item itemvalue="Application.TheMaximumProfit" />
       <item itemvalue="Application.BinaryTreeMain" />
       <item itemvalue="Application.BinarySearchTreeMain" />
+      <item itemvalue="Application.TreeSetOperations" />
+      <item itemvalue="Application.Java8Lambdas" />
+      <item itemvalue="Application.GfG" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GfG" />
         <item itemvalue="Application.BinarySearchTreeMain" />
+        <item itemvalue="Application.Java8Lambdas" />
+        <item itemvalue="Application.TreeSetOperations" />
         <item itemvalue="Application.BinaryTreeMain" />
-        <item itemvalue="Application.TheMaximumProfit" />
-        <item itemvalue="Application.CollapseRoad" />
-        <item itemvalue="Application.MinimumLengthSubArray" />
       </list>
     </recent_temporary>
   </component>
@@ -354,10 +362,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48083067" visible="true" weight="0.14255014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48083067" visible="true" weight="0.13825215" />
       <window_info id="Structure" order="1" sideWeight="0.51916933" side_tool="true" weight="0.12652811" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -366,17 +373,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32984293" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33291924" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33291924" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35900623" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32984293" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.48586386" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.4857143" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32919255" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32984293" />
       <window_info anchor="bottom" id="Tail" order="14" />
       <window_info anchor="bottom" id="SonarLint" order="15" />
@@ -387,10 +394,11 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Codota" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.101002865" />
+      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49906892" visible="true" weight="0.09742121" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Maven-2 Build" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.5009311" side_tool="true" visible="true" weight="0.09799714" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -711,6 +719,12 @@
           <properties />
           <option name="timeStamp" value="96" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -776,44 +790,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Stack/BalancedParenthesis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack/TwoSrackArrayOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack/StockSpanProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="56" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack/PreviousGreaterElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stack/NotGreaterElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/hashing/CustomHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -846,13 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2070">
-          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -971,13 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="778">
-          <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1140,17 +1102,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+        <state relative-caret-position="17">
+          <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binarysearchtree/TreeSetOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/streams/Java8Lambdas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="146" column="11" selection-start-line="146" selection-start-column="11" selection-end-line="146" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/binarysearchtree/BinarySearchTreeMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+        <state relative-caret-position="439">
+          <caret line="47" column="44" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="275" column="26" selection-start-line="275" selection-start-column="26" selection-end-line="275" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#8492#8493#0" expanded="true" />
+            <element signature="e#8542#8543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binarysearchtree/GFG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
         </state>
       </provider>
     </entry>
