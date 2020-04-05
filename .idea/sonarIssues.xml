@@ -293,6 +293,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/heap/HeapMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/heap/HeapOperations.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/heap/MaximumItemsWithGivenSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/heap/SortKSortedArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/heap/qwert.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/lambda/streams/Java8Lambdas.java">
           <value>
             <set />
@@ -463,6 +488,56 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/todo-list/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/todo-list/src/main/java/com/bishal/todolist/controller/TodoListController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/todo-list/src/main/java/com/bishal/todolist/dao/ITodoListDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/todo-list/src/main/java/com/bishal/todolist/mapper/TaskRequestMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/todo-list/src/main/java/com/bishal/todolist/mapper/TaskResponseMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/todo-list/src/main/java/com/bishal/todolist/model/Task.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/todo-list/src/main/java/com/bishal/todolist/service/ITodoListService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/todo-list/src/main/java/com/bishal/todolist/service/impl/TodoListSearviceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/todo-list/src/main/java/com/bishal/todolist/service/impl/TodoListServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/todo-list/src/main/java/utils/TaskResponseUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/bulk-export/src/main/java/com/bishal/bulk/export/common/utils/database/DatabaseConnectionStoreUtils.java">
           <value>
             <set />
@@ -589,6 +664,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/common/constant/DecentralizationMasterConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/decentralised/operations/common/controller/IngestionAPI.java">
           <value>
             <set />
           </value>
@@ -823,6 +903,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/agentpro/utils/BrokerConfigUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/login/controllers/NinjaAuthenticator.java">
           <value>
             <set />
@@ -838,12 +923,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/dao/IS3MISFileInfoDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/dao/impl/S3MISFileInfoDAOImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/mapper/AdminUser.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/mapper/MISUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/payouts/service/impl/PolicyPayoutServiceImpl.java">
           <value>
             <set />
           </value>
@@ -873,12 +973,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/models/S3MISFileInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/services/elasticsearch/ElasticConfig.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/build.sbt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/conf/application.conf">
           <value>
             <set />
           </value>
@@ -1249,6 +1359,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/playapi/turtlemint/app/com/agentpro/service/AgentProService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/playapi/turtlemint/app/com/login/controllers/NinjaAuthenticator.java">
           <value>
             <set />
           </value>
@@ -1679,6 +1794,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtledata/mongoDump/updateUpdatedAtTimeStampInPolicyDetails.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtledata/ninja/mongo/NewRole_Maker-Checker.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtledata/ninja/mongo/addCreatedAtIndex.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtledata/ninja/mongo/addCreatedAtIndex.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtledata/ninja/mongo/runMongoScript.sh">
           <value>
             <set />
           </value>
