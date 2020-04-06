@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="708dd2c6-a9ee-4ad5-95b7-dbd2f2ee30dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/heap/HeapMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heap/HeapOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heap/MaximumItemsWithGivenSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heap/SortKSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graph/GraphWithArraylist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/heap/Source.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graph/GraphOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graph/GraphOperations.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,24 +68,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="393" />
+          <entry key="java" value="417" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="393" />
+          <entry key="JAVA" value="417" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="103" />
-          <entry key="java" value="68505" />
+          <entry key="java" value="69513" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="68505" />
+          <entry key="JAVA" value="69513" />
           <entry key="PLAIN_TEXT" value="103" />
         </counts>
       </usages-collector>
@@ -94,10 +94,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/heap/qwert.java">
+        <entry file="file://$PROJECT_DIR$/src/graph/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            <state relative-caret-position="388">
+              <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,7 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Stack/StackOperations.java" />
         <option value="$PROJECT_DIR$/src/Stack/BalancedParenthesis.java" />
         <option value="$PROJECT_DIR$/src/Stack/TeoSrackArray.java" />
         <option value="$PROJECT_DIR$/src/Stack/TwoSrackArray.java" />
@@ -160,8 +162,6 @@
         <option value="$PROJECT_DIR$/src/queue/Dequeue.java" />
         <option value="$PROJECT_DIR$/src/tree/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/tree/TestClass.java" />
-        <option value="$PROJECT_DIR$/src/graph/Graph.java" />
-        <option value="$PROJECT_DIR$/src/graph/GraphOperations.java" />
         <option value="$PROJECT_DIR$/src/Sorting/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/linklist/LinkList.java" />
         <option value="$PROJECT_DIR$/src/linklist/LinkListOperations.java" />
@@ -186,6 +186,9 @@
         <option value="$PROJECT_DIR$/src/heap/SortKSortedArray.java" />
         <option value="$PROJECT_DIR$/src/heap/MaximumItemsWithGivenSum.java" />
         <option value="$PROJECT_DIR$/src/heap/qwert.java" />
+        <option value="$PROJECT_DIR$/src/graph/GraphWithArraylist.java" />
+        <option value="$PROJECT_DIR$/src/graph/GraphOperations.java" />
+        <option value="$PROJECT_DIR$/src/graph/Graph.java" />
       </list>
     </option>
   </component>
@@ -222,13 +225,7 @@
               <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="heap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -242,7 +239,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Revers&#9;PSI&#9;JAVA://linklist.LinkList#reverseTheLinkList" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586093781904" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586198253236" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -261,7 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Source">
+  <component name="RunManager" selected="Application.GraphOperations">
     <configuration name="Buffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="heap.Buffer" />
       <module name="DataStructure" />
@@ -288,12 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heap.MyClass" />
+    <configuration name="GraphOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graph.GraphOperations" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heap.*" />
+          <option name="PATTERN" value="graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,8 +298,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heap.Parent" />
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heap.MyClass" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
@@ -328,19 +325,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Parent" />
       <item itemvalue="Application.MyClass" />
       <item itemvalue="Application.Buffer" />
       <item itemvalue="Application.First" />
       <item itemvalue="Application.Source" />
+      <item itemvalue="Application.GraphOperations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GraphOperations" />
         <item itemvalue="Application.Source" />
         <item itemvalue="Application.First" />
         <item itemvalue="Application.Buffer" />
         <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.Parent" />
       </list>
     </recent_temporary>
   </component>
@@ -655,7 +652,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/graph/Graph.java</url>
-          <line>18</line>
+          <line>19</line>
           <properties />
           <option name="timeStamp" value="81" />
         </line-breakpoint>
@@ -802,13 +799,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/queue/QueueOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/queue/CircularQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -927,13 +917,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/graph/GraphOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sorting/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
@@ -973,13 +956,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="40" column="38" lean-forward="true" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/graph/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1035,13 +1011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="564">
           <caret line="37" column="24" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="37" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/graph/CollapseRoad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -1182,6 +1151,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph/CollapseRoad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph/GraphWithArraylist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph/GraphOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
