@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="708dd2c6-a9ee-4ad5-95b7-dbd2f2ee30dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/graph/GraphWithArraylist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/heap/Source.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/graph/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/graph/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/graph/GraphOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/graph/GraphOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graph/CollapseRoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graph/CollapseRoad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graph/Graph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/graph/GraphOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graph/GraphOperations.java" afterDir="false" />
     </list>
@@ -28,7 +29,7 @@
     <session id="-313080920">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="55" />
+          <entry key="project.closed" value="56" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
@@ -49,7 +50,7 @@
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.36" value="2" />
           <entry key="project.open.time.4" value="7" />
-          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="4" />
@@ -62,30 +63,30 @@
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="63" />
+          <entry key="project.opened" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="417" />
+          <entry key="java" value="436" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="417" />
+          <entry key="JAVA" value="436" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="103" />
-          <entry key="java" value="69513" />
+          <entry key="java" value="71410" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="69513" />
+          <entry key="JAVA" value="71410" />
           <entry key="PLAIN_TEXT" value="103" />
         </counts>
       </usages-collector>
@@ -94,12 +95,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/graph/Graph.java">
+        <entry file="file://$PROJECT_DIR$/src/graph/CollapseRoad.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+            <state relative-caret-position="221">
+              <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -172,7 +174,6 @@
         <option value="$PROJECT_DIR$/src/Arrays/CharactersInAMatrix.java" />
         <option value="$PROJECT_DIR$/src/Arrays/MaximumSubArray.java" />
         <option value="$PROJECT_DIR$/src/Arrays/MinimumLengthSubArray.java" />
-        <option value="$PROJECT_DIR$/src/graph/CollapseRoad.java" />
         <option value="$PROJECT_DIR$/src/Arrays/TheMaximumProfit.java" />
         <option value="$PROJECT_DIR$/src/tree/Nodes.java" />
         <option value="$PROJECT_DIR$/src/tree/BinaryTreeMain.java" />
@@ -189,6 +190,7 @@
         <option value="$PROJECT_DIR$/src/graph/GraphWithArraylist.java" />
         <option value="$PROJECT_DIR$/src/graph/GraphOperations.java" />
         <option value="$PROJECT_DIR$/src/graph/Graph.java" />
+        <option value="$PROJECT_DIR$/src/graph/CollapseRoad.java" />
       </list>
     </option>
   </component>
@@ -199,9 +201,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1648" />
-    <option name="height" value="976" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -209,6 +210,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Course" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,15 +236,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="Course" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Revers&#9;PSI&#9;JAVA://linklist.LinkList#reverseTheLinkList" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586198253236" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586457164528" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -258,13 +259,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GraphOperations">
+  <component name="RunManager" selected="Application.CollapseRoad">
     <configuration name="Buffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="heap.Buffer" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollapseRoad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graph.CollapseRoad" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,19 +312,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heap.MyClass" />
-      <module name="DataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="heap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Source" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="heap.Source" />
       <module name="DataStructure" />
@@ -325,19 +326,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyClass" />
       <item itemvalue="Application.Buffer" />
       <item itemvalue="Application.First" />
       <item itemvalue="Application.Source" />
       <item itemvalue="Application.GraphOperations" />
+      <item itemvalue="Application.CollapseRoad" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollapseRoad" />
         <item itemvalue="Application.GraphOperations" />
         <item itemvalue="Application.Source" />
         <item itemvalue="Application.First" />
         <item itemvalue="Application.Buffer" />
-        <item itemvalue="Application.MyClass" />
       </list>
     </recent_temporary>
   </component>
@@ -376,14 +377,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32984293" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33291924" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35900623" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33291924" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.35900623" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32984293" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.4857143" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33167702" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32919255" />
@@ -645,18 +646,6 @@
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/graph/GraphOperations.java</url>
-          <line>6</line>
-          <properties />
-          <option name="timeStamp" value="80" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/graph/Graph.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="81" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/linklist/LinkList.java</url>
           <line>150</line>
           <properties />
@@ -734,6 +723,12 @@
           <properties />
           <option name="timeStamp" value="98" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/Graph.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -751,6 +746,11 @@
       </expression>
     </expressions>
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>adjacentList[source]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>arrayList.get(j-1)</expression-string>
         <language-id>JAVA</language-id>
@@ -788,11 +788,6 @@
       </expression>
       <expression>
         <expression-string>numberQueue</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>numberQueue.peek()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -1147,20 +1142,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/heap/qwert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/graph/CollapseRoad.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/heap/qwert.java" />
     <entry file="file://$PROJECT_DIR$/src/graph/GraphWithArraylist.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1173,17 +1155,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/graph/GraphOperations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        <state relative-caret-position="337">
+          <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/graph/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+        <state relative-caret-position="2839">
+          <caret line="167" lean-forward="true" selection-start-line="167" selection-end-line="167" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#6368#6369#0" expanded="true" />
+            <element signature="e#6401#6402#0" expanded="true" />
+            <element signature="e#6466#6467#0" expanded="true" />
+            <element signature="e#6524#6525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph/CollapseRoad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -10,6 +10,7 @@ public class GraphOperations {
         graph.addEdge(2,3);
         graph.addEdge(4,3);
         graph.addEdge(0,3);
+        graph.addEdge(3,0);
         graph.addEdge(0,4);
 
         //disconnected edge
@@ -24,6 +25,15 @@ public class GraphOperations {
 
         graph.printBFSPathForDisconnectedGraph();
 
+//        graph.printDFSPathMail(0);
+        graph.printDFSPathMail(1);
+        graph.printDFSPathMail(2);
+        graph.printDFSPathMail(3);
+        graph.printDFSPathMail(4);
+
+        graph.shortestPathInAnUnweightedGraph(0);
+
+        System.out.println("cycle is: " +graph.detectACycleInDirectedGraph());
 
         System.out.println("--------------------------------");
 

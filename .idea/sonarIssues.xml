@@ -918,6 +918,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/constants/MISConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/constants/MISDBFieldMapper.java">
           <value>
             <set />
@@ -928,7 +933,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/dao/IPolicyDetailsDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/dao/IS3MISFileInfoDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/dao/impl/PolicyDetailsDAOImpl.java">
           <value>
             <set />
           </value>
@@ -949,6 +964,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/payouts/service/impl/PolicyPayoutServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/policy/duplicate/constants/DuplicatePolicyDetailConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/policy/duplicate/services/IDuplicatePolicyCheckService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/policy/duplicate/services/impl/DuplicatePolicyCheckServiceImpl.java">
           <value>
             <set />
           </value>
@@ -1184,6 +1214,46 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/transferlog/utils/TransferLogQueryUtilsTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/mis/dao/impl/PolicyDetailsDAOImplTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/mis/policy/duplicate/services/IDuplicatePolicyCheckService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/mis/policy/duplicate/services/impl/DuplicatePolicyCheckServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/mis/policy/duplicate/services/impl/DuplicatePolicyCheckServiceImplTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/mis/policy/duplicate/services/initialize/PolicyMapperInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/mis/policy/initialize/DuplicatePolicyCheckQueryInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/mis/policy/initialize/PolicyDetailInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/mis/policy/initialize/PolicyMapperInitializer.java">
           <value>
             <set />
           </value>
