@@ -2,16 +2,20 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/../../ProjectRepoBackend/turtledata/mongoDump/dailydumps/ninja_index.js" description="/;" line="5" />
+    <bookmark url="file://$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/agentpro/controller/BrokerConfigAPI.java" description="        String source = request().getQueryString(&quot;..." line="61" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="708dd2c6-a9ee-4ad5-95b7-dbd2f2ee30dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/access_specifiers/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access_specifiers/com/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access_specifiers/com/bishal/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backtracking/RatMazeProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/ActivitySelectionProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/FractionalKnapsac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/JobSequencingProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greedy/LineInterview.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/graph/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/graph/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/graph/GraphOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/graph/GraphOperations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graph/CollapseRoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graph/CollapseRoad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graph/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graph/GraphOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graph/GraphOperations.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +33,7 @@
     <session id="-313080920">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="56" />
+          <entry key="project.closed" value="57" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
@@ -49,6 +53,7 @@
           <entry key="project.open.time.32" value="2" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.4" value="7" />
           <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.48" value="1" />
@@ -63,30 +68,30 @@
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="64" />
+          <entry key="project.opened" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="436" />
+          <entry key="java" value="475" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="436" />
+          <entry key="JAVA" value="475" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="103" />
-          <entry key="java" value="71410" />
+          <entry key="java" value="74847" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="71410" />
+          <entry key="JAVA" value="74847" />
           <entry key="PLAIN_TEXT" value="103" />
         </counts>
       </usages-collector>
@@ -95,13 +100,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/graph/CollapseRoad.java">
+        <entry file="file://$PROJECT_DIR$/src/linklist/LinkList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+            <state relative-caret-position="423">
+              <caret line="66" column="9" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="66" selection-end-column="9" />
               <folding>
-                <element signature="e#405#406#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
+                <element signature="method#insertEnd#0;class#LinkList#0" />
+                <element signature="method#insertEnd#1;class#LinkList#0" />
+                <element signature="method#insertBegin#0;class#LinkList#0" />
+                <element signature="method#insertAtIndex#0;class#LinkList#0" />
+                <element signature="method#deleteLastElement#0;class#LinkList#0" />
+                <element signature="method#display#0;class#LinkList#0" />
+                <element signature="method#getTheMiddleElementInALinklistNaive#0;class#LinkList#0" />
+                <element signature="method#getTheMiddleElementInALinklist#0;class#LinkList#0" />
+                <element signature="method#getNthNodeOfTheLinkList#0;class#LinkList#0" />
+                <element signature="method#reverseTheLinkList#0;class#LinkList#0" />
+                <element signature="method#isPalindrome#0;class#LinkList#0" />
+                <element signature="method#reverseTheLinkListRecursive#0;class#LinkList#0" />
+                <element signature="method#reverseTheLlist#0;class#LinkList#0" />
+                <element signature="e#5391#5424#0" />
               </folding>
             </state>
           </provider>
@@ -140,15 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Stack/BalancedParenthesis.java" />
-        <option value="$PROJECT_DIR$/src/Stack/TeoSrackArray.java" />
-        <option value="$PROJECT_DIR$/src/Stack/TwoSrackArray.java" />
-        <option value="$PROJECT_DIR$/src/Stack/TwoSrackArrayOperations.java" />
-        <option value="$PROJECT_DIR$/src/Stack/Stack.java" />
-        <option value="$PROJECT_DIR$/src/Stack/StockSpanProblem.java" />
-        <option value="$PROJECT_DIR$/src/Stack/PreviousGreaterElement.java" />
-        <option value="$PROJECT_DIR$/src/Stack/NotGreaterElement.java" />
-        <option value="$PROJECT_DIR$/src/queue/QueueOperations.java" />
         <option value="$PROJECT_DIR$/src/queue/Queue.java" />
         <option value="$PROJECT_DIR$/src/queue/CircularQueue.java" />
         <option value="$PROJECT_DIR$/src/queue/CircularQueueOperations.java" />
@@ -191,6 +199,15 @@
         <option value="$PROJECT_DIR$/src/graph/GraphOperations.java" />
         <option value="$PROJECT_DIR$/src/graph/Graph.java" />
         <option value="$PROJECT_DIR$/src/graph/CollapseRoad.java" />
+        <option value="$PROJECT_DIR$/src/greedy/ActivitySelectionProblem.java" />
+        <option value="$PROJECT_DIR$/src/greedy/FractionalKnapsac.java" />
+        <option value="$PROJECT_DIR$/src/greedy/LineInterview.java" />
+        <option value="$PROJECT_DIR$/src/greedy/JobSequencingProblem.java" />
+        <option value="$PROJECT_DIR$/src/backtracking/RatMazeProblem.java" />
+        <option value="$PROJECT_DIR$/src/access_specifiers/B.java" />
+        <option value="$PROJECT_DIR$/src/access_specifiers/com/A.java" />
+        <option value="$PROJECT_DIR$/src/access_specifiers/com/C.java" />
+        <option value="$PROJECT_DIR$/src/access_specifiers/com/bishal/D.java" />
       </list>
     </option>
   </component>
@@ -201,8 +218,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="y" value="23" />
+    <option name="width" value="1408" />
+    <option name="height" value="826" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -210,10 +228,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Course" />
       <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,17 +247,31 @@
               <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
               <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
+              <item name="access_specifiers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="access_specifiers" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="linklist" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Revers&#9;PSI&#9;JAVA://linklist.LinkList#reverseTheLinkList" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586457164528" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586965254170" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -259,13 +290,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CollapseRoad">
-    <configuration name="Buffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heap.Buffer" />
+  <component name="RunManager" selected="Application.RatMazeProblem">
+    <configuration name="ActivitySelectionProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.ActivitySelectionProblem" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heap.*" />
+          <option name="PATTERN" value="greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,12 +317,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heap.First" />
+    <configuration name="FractionalKnapsac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.FractionalKnapsac" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heap.*" />
+          <option name="PATTERN" value="greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,12 +330,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GraphOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="graph.GraphOperations" />
+    <configuration name="JobSequencingProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greedy.JobSequencingProblem" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="graph.*" />
+          <option name="PATTERN" value="greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,12 +343,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Source" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heap.Source" />
+    <configuration name="RatMazeProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.RatMazeProblem" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heap.*" />
+          <option name="PATTERN" value="backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,19 +357,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Buffer" />
-      <item itemvalue="Application.First" />
-      <item itemvalue="Application.Source" />
-      <item itemvalue="Application.GraphOperations" />
       <item itemvalue="Application.CollapseRoad" />
+      <item itemvalue="Application.ActivitySelectionProblem" />
+      <item itemvalue="Application.FractionalKnapsac" />
+      <item itemvalue="Application.JobSequencingProblem" />
+      <item itemvalue="Application.RatMazeProblem" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RatMazeProblem" />
+        <item itemvalue="Application.JobSequencingProblem" />
+        <item itemvalue="Application.FractionalKnapsac" />
+        <item itemvalue="Application.ActivitySelectionProblem" />
         <item itemvalue="Application.CollapseRoad" />
-        <item itemvalue="Application.GraphOperations" />
-        <item itemvalue="Application.Source" />
-        <item itemvalue="Application.First" />
-        <item itemvalue="Application.Buffer" />
       </list>
     </recent_temporary>
   </component>
@@ -368,7 +399,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48083067" visible="true" weight="0.13825215" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48083067" visible="true" weight="0.13825215" />
       <window_info id="Structure" order="1" sideWeight="0.51916933" side_tool="true" weight="0.12652811" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -378,13 +409,13 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32984293" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33291924" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.35900623" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35900623" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32984293" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33167702" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33167702" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32919255" />
@@ -729,6 +760,12 @@
           <properties />
           <option name="timeStamp" value="101" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/backtracking/RatMazeProblem.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -794,82 +831,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/queue/CircularQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/queue/CircularQueueOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/queue/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="52" column="5" selection-start-line="4" selection-start-column="3" selection-end-line="52" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/queue/QueueLinklistOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/queue/QueueUsingLinklist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/queue/ReverseAQueueUsingRecursiveApproach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/queue/GenerateNumbersWithGivenDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/queue/Dequeue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="24" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1560">
@@ -933,20 +894,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/LinkListOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="116" column="46" selection-start-line="116" selection-start-column="46" selection-end-line="116" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/LinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-106">
-          <caret line="158" column="9" lean-forward="true" selection-start-line="158" selection-start-column="9" selection-end-line="158" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sorting/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
@@ -1006,13 +953,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="564">
           <caret line="37" column="24" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="37" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1147,9 +1087,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1181,6 +1118,116 @@
           <folding>
             <element signature="e#405#406#0" expanded="true" />
             <element signature="e#447#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1430" column="27" selection-start-line="1430" selection-start-column="27" selection-end-line="1430" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greedy/ActivitySelectionProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greedy/FractionalKnapsac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greedy/LineInterview.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/greedy/JobSequencingProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="31" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="210" column="8" selection-start-line="210" selection-start-column="8" selection-end-line="210" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtracking/RatMazeProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/access_specifiers/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/access_specifiers/com/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/access_specifiers/com/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/access_specifiers/com/bishal/D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linklist/LinkListOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="116" column="46" selection-start-line="116" selection-start-column="46" selection-end-line="116" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linklist/LinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="66" column="9" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="66" selection-end-column="9" />
+          <folding>
+            <element signature="method#insertEnd#0;class#LinkList#0" />
+            <element signature="method#insertEnd#1;class#LinkList#0" />
+            <element signature="method#insertBegin#0;class#LinkList#0" />
+            <element signature="method#insertAtIndex#0;class#LinkList#0" />
+            <element signature="method#deleteLastElement#0;class#LinkList#0" />
+            <element signature="method#display#0;class#LinkList#0" />
+            <element signature="method#getTheMiddleElementInALinklistNaive#0;class#LinkList#0" />
+            <element signature="method#getTheMiddleElementInALinklist#0;class#LinkList#0" />
+            <element signature="method#getNthNodeOfTheLinkList#0;class#LinkList#0" />
+            <element signature="method#reverseTheLinkList#0;class#LinkList#0" />
+            <element signature="method#isPalindrome#0;class#LinkList#0" />
+            <element signature="method#reverseTheLinkListRecursive#0;class#LinkList#0" />
+            <element signature="method#reverseTheLlist#0;class#LinkList#0" />
+            <element signature="e#5391#5424#0" />
           </folding>
         </state>
       </provider>
