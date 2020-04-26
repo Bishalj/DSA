@@ -243,7 +243,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/access_specifiers/com/HCK.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/access_specifiers/com/bishal/D.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/backtracking/NQueen.java">
           <value>
             <set />
           </value>
@@ -269,6 +279,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/binarysearchtree/TreeSetOperations.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/dynamic_programming/CoinChange.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/dynamic_programming/EditDistance.java">
           <value>
             <set />
           </value>
@@ -538,6 +558,101 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/src/main/java/geektrust/tameofthrones/constants/KingdomDetailsConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/src/main/java/geektrust/tameofthrones/controller/TameOfThrones.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/src/main/java/geektrust/tameofthrones/mappers/KingdomMessageRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/src/main/java/geektrust/tameofthrones/models/Kingdom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/src/main/java/geektrust/tameofthrones/services/IAllyKingdomService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/src/main/java/geektrust/tameofthrones/services/IKingdomService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/src/main/java/geektrust/tameofthrones/services/impl/AllyKingdomServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/src/main/java/geektrust/tameofthrones/services/impl/KingdomServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/src/main/java/geektrust/tameofthrones/utils/CipherUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/src/test/java/geektrust/tameofthrones/constants/KindomDetailsConstantTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/src/test/java/geektrust/tameofthrones/constants/KingdomDetailsConstantTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/src/test/java/geektrust/tameofthrones/controller/TameOfThronesTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/src/test/java/geektrust/tameofthrones/controller/TameOfThronesTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/src/test/java/geektrust/tameofthrones/initializer/KingdomMessageRequestInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/src/test/java/geektrust/tameofthrones/services/impl/AllyKingdomServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/src/test/java/geektrust/tameofthrones/services/impl/KingdomServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/GoldenCrown/src/test/java/geektrust/tameofthrones/utils/CipherUtilTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/Todolist be/todo-list/build.gradle">
           <value>
             <set />
@@ -664,6 +779,231 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../Bishal_Project/Git_Projects/bulk-export/src/test/java/com/bishal/bulkExample/export/service/initialize/impl/DataExportRequestMapperInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/common/constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/common/encryption/CipherUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/controller/TameOfThrones.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/kingdom/constants/KingdomDetailsConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/kingdom/controller/TameOfThrones.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/kingdom/main/TameOfThrones.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/kingdom/mappers/KingdomMessageRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/kingdom/services/AllyKingdom.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/kingdom/services/AllyKingdomService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/kingdom/services/KingdomMessageMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/kingdom/services/KingdomService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/kingdom/services/RulerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/kingdom/services/implementation/AllyKingdomImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/kingdom/services/implementation/AllyKingdomServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/kingdom/services/implementation/KingdomMessageMapperImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/kingdom/services/implementation/KingdomServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/kingdom/services/implementation/RulerServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/services/IAllyKingdomService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/services/impl/AllyKingdomServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/services/implementation/AllyKingdomServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/validation/service/FileValidation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/validation/service/RequestValidationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/validation/service/implementation/FileValidationImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/tameofthrones/validation/service/implementation/RequestValidationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/validation/service/IRequestValidationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/validation/service/RequestValidationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/main/java/geektrust/validation/service/implementation/RequestValidationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/test/java/geektrust/tameofthrones/common/encryption/CipherUtilTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/test/java/geektrust/tameofthrones/constants/TameOfThronesConstantsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/test/java/geektrust/tameofthrones/controller/TameOfThronesTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/test/java/geektrust/tameofthrones/initializer/AllyKingdomInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/test/java/geektrust/tameofthrones/initializer/KingdomMessageRequestInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/test/java/geektrust/tameofthrones/kingdom/constants/KingdomDetailsConstantTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/test/java/geektrust/tameofthrones/kingdom/services/impl/AllyKingdomImplTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/test/java/geektrust/tameofthrones/kingdom/services/impl/KingdomServiceImplTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/test/java/geektrust/tameofthrones/kingdom/services/implementation/AllyKingdomImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/test/java/geektrust/tameofthrones/kingdom/services/implementation/KingdomMessageMapperImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/test/java/geektrust/tameofthrones/kingdom/services/implementation/KingdomServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/test/java/geektrust/tameofthrones/kingdom/services/implementation/RulerServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/test/java/geektrust/tameofthrones/kingdom/v1-services/impl/AllyKingdomImplTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/test/java/geektrust/tameofthrones/kingdom/v1-services/impl/KingdomServiceImplTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/test/java/geektrust/tameofthrones/main/TameOfThronesTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/test/java/geektrust/tameofthrones/validation/service/implementation/FileValidationImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GoldenCrown/src/test/java/geektrust/tameofthrones/validation/service/implementation/RequestValidationImplTest.java">
           <value>
             <set />
           </value>
@@ -1038,6 +1378,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/IPolicyDetailService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/impl/MISFileManagerServiceImpl.java">
           <value>
             <set />
@@ -1054,6 +1399,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/turtlemint/utility/TurtleDateUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/controllers/Application.java">
           <value>
             <set />
           </value>
@@ -1089,6 +1439,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/conf/application.conf">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/conf/context.xml">
           <value>
             <set />
           </value>
@@ -1849,6 +2204,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtle-constants/src/main/java/com/turtle/enums/ModulesEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtle_ansible/v2/roles/build-tm-services/play/templates/health-service/application.stage.conf.j2">
           <value>
             <set />
           </value>
