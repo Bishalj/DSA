@@ -293,6 +293,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/dynamic_programming/LongestIncreasingSubsequence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/graph/CollapseRoad.java">
           <value>
             <set />
@@ -384,6 +389,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/heap/qwert.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/java/Immutable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/java/Practice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/java/PracticeVolatile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/java_practice/Immutable.java">
           <value>
             <set />
           </value>
@@ -1034,6 +1059,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/agent-pro/conf/routes">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/mintpro-be/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/mintpro-be/src/main/java/com/turtlemint/mintprobe/MintproBeApplication.java">
           <value>
             <set />
           </value>
