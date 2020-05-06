@@ -1,6 +1,5 @@
 package binarysearchtree;
 
-import javafx.util.Pair;
 
 import java.util.*;
 
@@ -254,42 +253,42 @@ public class BinarySearchTree {
     }
 
     private void printTheBottomViewInABinaryTree(Node root, Map<Integer, Integer> verticalSum, int key) {
-        if(root == null)
-            return;
-        Queue<Pair<Integer, Node>> nodeQueue = new LinkedList<>();
-        nodeQueue.add(new Pair<Integer, Node>(key, root));
-
-        while (!nodeQueue.isEmpty()) {
-            Pair<Integer, Node> pairNode = nodeQueue.poll();
-
-            if (NodeIsNotEmpty(pairNode)) {
-                verticalSum.put(pairNode.getKey(), pairNode.getValue().data);
-
-                addLeftNodeInTheQueue(nodeQueue, pairNode);
-
-                addRightNodeInTheQueue(nodeQueue, pairNode);
-            }
-        }
+//        if(root == null)
+//            return;
+//        Queue<Pair<Integer, Node>> nodeQueue = new LinkedList<>();
+//        nodeQueue.add(new Pair<Integer, Node>(key, root));
+//
+//        while (!nodeQueue.isEmpty()) {
+//            Pair<Integer, Node> pairNode = nodeQueue.poll();
+//
+//            if (NodeIsNotEmpty(pairNode)) {
+//                verticalSum.put(pairNode.getKey(), pairNode.getValue().data);
+//
+//                addLeftNodeInTheQueue(nodeQueue, pairNode);
+//
+//                addRightNodeInTheQueue(nodeQueue, pairNode);
+//            }
+//        }
     }
-
-    private boolean NodeIsNotEmpty(Pair<Integer, Node> pairNode) {
-        return pairNode.getValue() != null;
-    }
-
-    private void addRightNodeInTheQueue(Queue<Pair<Integer, Node>> nodeQueue, Pair<Integer, Node> pairNode) {
-        if (pairNode.getValue().right != null) {
-            Pair<Integer, Node> rightPair = new Pair<>(pairNode.getKey() + 1, pairNode.getValue().right);
-            nodeQueue.add(rightPair);
-        }
-    }
-
-    private void addLeftNodeInTheQueue(Queue<Pair<Integer, Node>> nodeQueue, Pair<Integer, Node> pairNode) {
-        if (pairNode.getValue().left != null) {
-            Pair<Integer, Node> leftPair = new Pair<>(pairNode.getKey() - 1, pairNode.getValue().left);
-            nodeQueue.add(leftPair);
-        }
-    }
-
+//
+//    private boolean NodeIsNotEmpty(Pair<Integer, Node> pairNode) {
+//        return pairNode.getValue() != null;
+//    }
+//
+//    private void addRightNodeInTheQueue(Queue<Pair<Integer, Node>> nodeQueue, Pair<Integer, Node> pairNode) {
+//        if (pairNode.getValue().right != null) {
+//            Pair<Integer, Node> rightPair = new Pair<>(pairNode.getKey() + 1, pairNode.getValue().right);
+//            nodeQueue.add(rightPair);
+//        }
+//    }
+//
+//    private void addLeftNodeInTheQueue(Queue<Pair<Integer, Node>> nodeQueue, Pair<Integer, Node> pairNode) {
+//        if (pairNode.getValue().left != null) {
+//            Pair<Integer, Node> leftPair = new Pair<>(pairNode.getKey() - 1, pairNode.getValue().left);
+//            nodeQueue.add(leftPair);
+//        }
+//    }
+//
 
 }
 

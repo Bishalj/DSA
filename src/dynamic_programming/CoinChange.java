@@ -2,11 +2,26 @@ package dynamic_programming;
 
 import java.util.*;
 
-public class CoinChange {
-
+public class CoinChange implements a,b{
     public static void main(String[] args) {
+        var aa = new ArrayList<>();
+        System.out.println(aa);
+        b az = new CoinChange();
+         az.display();
         Set<Integer> set = new HashSet<>();
         set.add(null);
+        Map<Integer, Integer> map = new HashMap<>();
+        List<Map.Entry<Integer, Integer>> list = new ArrayList(map.values());
+        list.sort((a, b) -> a.getValue() < b.getValue() ? 1 :-1);
+
+        Comparator<Map.Entry<Integer, Integer>> comparator = new Comparator<Map.Entry<Integer, Integer>>() {
+            @Override
+            public int compare(Map.Entry<Integer, Integer> a, Map.Entry<Integer, Integer> b) {
+                return a.getValue() < b.getValue() ? 1 :-1;
+            }
+        };
+        Map<Integer, Integer> maps = new TreeMap(comparator);
+        maps.putAll(map);
 
         Hashtable<String, String> h = new Hashtable<>();
         int a = 122;
@@ -97,4 +112,16 @@ public class CoinChange {
 
     }
 
+}
+
+interface  a{
+    private void display(){
+        System.out.println("inside a");
+    }
+}
+
+interface  b{
+    default void display(){
+        System.out.println("inside b");
+    }
 }

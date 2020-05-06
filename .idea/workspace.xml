@@ -6,22 +6,205 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="708dd2c6-a9ee-4ad5-95b7-dbd2f2ee30dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/crio/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/CountAllPalindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/MaximumCut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/consumer/ConsumerFunctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/paypal/MaximumSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/paypal/PaintBuildings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/paypal/PaintingBuildingsFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/paypal/SmallestString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/soc_gen/Virus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/ClassFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/CanYouSolveIt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/CanYouSolveIt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/CharactersInAMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/CharactersInAMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/ConsecutiveSubArrayWithGivenSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/ConsecutiveSubArrayWithGivenSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/EquilibriumPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/EquilibriumPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/EquilibriumPointWithoutArrayManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/EquilibriumPointWithoutArrayManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/KadaneAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/KadaneAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/KadaneAlgorithmOptimised.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/KadaneAlgorithmOptimised.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/LeadersInAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/LeadersInAnArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/LeftRotateAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/LeftRotateAnArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/LongSubOfEvenOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/LongSubOfEvenOdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/MaximumAppearningElementInRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/MaximumAppearningElementInRange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/MaximumDifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/MaximumDifference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/MaximumSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/MaximumSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/MinimumLengthSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/MinimumLengthSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/MissingAndRepeatingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/MissingAndRepeatingNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/NFibonacciSeries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/NFibonacciSeries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/NumberOfDays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/NumberOfDays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/PrefixSumPart1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/PrefixSumPart1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/RearrangeAlternateElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/RearrangeAlternateElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/RearrangeArrayElementsWithNoExtraSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/RearrangeArrayElementsWithNoExtraSpace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/ReverseAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/ReverseAnArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/SlidingWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/SlidingWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/StockBuyProblemPart1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/StockBuyProblemPart1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/TheMaximumProfit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/TheMaximumProfit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/TrappingTrainWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/TrappingTrainWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Arrays/WavePattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Arrays/WavePattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Hackerrank/recursion/CalculateMoves.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Hackerrank/recursion/CalculateMoves.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Hackerrank/recursion/TrystWithChess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Hackerrank/recursion/TrystWithChess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Searching/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Searching/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Searching/CountFrequencyOfElementInSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Searching/CountFrequencyOfElementInSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Searching/CountOnlyRepeated.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Searching/CountOnlyRepeated.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Searching/LeftMostElementInSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Searching/LeftMostElementInSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Searching/MajorityElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Searching/MajorityElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Searching/MinimumNuberOfPages.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Searching/MinimumNuberOfPages.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Searching/PairsInSortedArrayGIvesSumX.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Searching/PairsInSortedArrayGIvesSumX.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Searching/PairsUnsortedArrayGIvesSumX.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Searching/PairsUnsortedArrayGIvesSumX.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Searching/PeakElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Searching/PeakElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Searching/SearchElementInInfiniteArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Searching/SearchElementInInfiniteArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Searching/SearchElementInSortedAndRotatedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Searching/SearchElementInSortedAndRotatedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Searching/SmallestPossibleMissingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Searching/SmallestPossibleMissingNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Searching/SquareRootInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Searching/SquareRootInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Searching/TripletSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Searching/TripletSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Searching/TripletSumGFGSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Searching/TripletSumGFGSolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Searching/Undertaker21Problem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Searching/Undertaker21Problem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Searching/kk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Searching/kk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/ChocolateDistribution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/ChocolateDistribution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/CycleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/CycleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/Employees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/Employees.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/GFG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/GfgKthSmallest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/GfgKthSmallest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/IntersectionOfTwoSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/IntersectionOfTwoSortedArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/InversionCounting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/InversionCounting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/KthSmallestElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/KthSmallestElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/MergeOverlappingInterval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/MergeOverlappingInterval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/MergeTwoSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/MergeTwoSortedArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/MyComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/MyComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/MyStabilityComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/MyStabilityComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/QuickSortPartitionAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/QuickSortPartitionAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/RangeComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/RangeComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/RangePairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/RangePairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/SegregateArrayWithThreeTypesOfElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/SegregateArrayWithThreeTypesOfElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/SegregateArrayWithTwoTypeOfElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/SegregateArrayWithTwoTypeOfElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/StabilityInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/StabilityInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Sorting/UnionOfSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Sorting/UnionOfSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Stack/BalancedParenthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Stack/BalancedParenthesis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Stack/NotGreaterElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Stack/NotGreaterElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Stack/PreviousGreaterElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Stack/PreviousGreaterElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Stack/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Stack/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Stack/StackOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Stack/StackOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Stack/StockSpanProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Stack/StockSpanProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Stack/TwoArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Stack/TwoArrayStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/Stack/TwoSrackArrayOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/Stack/TwoSrackArrayOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/String/Anagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/String/Anagrams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/String/FindSubstringWithourRepeatingCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/String/FindSubstringWithourRepeatingCharacters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/String/KMPAlgorithmForPatternSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/String/KMPAlgorithmForPatternSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/String/LeftMostCharacterThatDoesNotRepeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/String/LeftMostCharacterThatDoesNotRepeat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/String/LeftMostRepeatingCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/String/LeftMostRepeatingCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/String/LongestProperPrefxSuffix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/String/LongestProperPrefxSuffix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/String/PermutationPatternOfAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/String/PermutationPatternOfAString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/String/RabinKarpAlgorithmToSearchPatternInAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/String/RabinKarpAlgorithmToSearchPatternInAString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/String/RankOfAWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/String/RankOfAWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/String/StringRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/String/StringRotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/access_specifiers/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/access_specifiers/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/access_specifiers/com/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/access_specifiers/com/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/access_specifiers/com/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/access_specifiers/com/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/access_specifiers/com/HCK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/access_specifiers/com/HCK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/access_specifiers/com/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/access_specifiers/com/Parser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/access_specifiers/com/bishal/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/access_specifiers/com/bishal/D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/backtracking/NQueen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/backtracking/NQueen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/backtracking/RatLocation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/backtracking/RatLocation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/backtracking/RatMazeProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/backtracking/RatMazeProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/binarysearchtree/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/binarysearchtree/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/binarysearchtree/BinarySearchTreeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/binarysearchtree/BinarySearchTreeMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/binarysearchtree/GfG.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/binarysearchtree/GfG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/binarysearchtree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/binarysearchtree/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/binarysearchtree/TreeSetOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/binarysearchtree/TreeSetOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/crio/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/crio/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/dynamic_programming/CoinChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/dynamic_programming/CoinChange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/dynamic_programming/CountAllPalindromes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/dynamic_programming/CountAllPalindromes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/dynamic_programming/EditDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/dynamic_programming/EditDistance.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DataStructure/dynamic_programming/LongestIncreasingSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/dynamic_programming/LongestIncreasingSubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/dynamic_programming/MaximumCut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/dynamic_programming/MaximumCut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/graph/CollapseRoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/graph/CollapseRoad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/graph/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/graph/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/graph/GraphOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/graph/GraphOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/graph/GraphWithArraylist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/graph/GraphWithArraylist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/greedy/Activity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/greedy/Activity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/greedy/ActivitySelectionProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/greedy/ActivitySelectionProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/greedy/FractionalKnapsac.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/greedy/FractionalKnapsac.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/greedy/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/greedy/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/greedy/JobSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/greedy/JobSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/greedy/JobSequencingProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/greedy/JobSequencingProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/greedy/LineInterview.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/greedy/LineInterview.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/hashing/CountDistinctElementsInEveryWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/hashing/CountDistinctElementsInEveryWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/hashing/CountDistinctElementsInEveryWindowOptimised.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/hashing/CountDistinctElementsInEveryWindowOptimised.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/hashing/CountOfSubArrayWithGivenSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/hashing/CountOfSubArrayWithGivenSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/hashing/CustomHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/hashing/CustomHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/hashing/CustomMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/hashing/CustomMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/hashing/CustomPair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/hashing/CustomPair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/hashing/DistictElementsInAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/hashing/DistictElementsInAnArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/hashing/FrequencyOfEachElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/hashing/FrequencyOfEachElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/hashing/LongestConsecutiveSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/hashing/LongestConsecutiveSubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/hashing/LongestSubarrayWithEqualZeroAndOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/hashing/LongestSubarrayWithEqualZeroAndOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/hashing/PairWithAgivenSun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/hashing/PairWithAgivenSun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/hashing/SubArrayWithGivenSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/hashing/SubArrayWithGivenSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/hashing/SubArrayWithZeroSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/hashing/SubArrayWithZeroSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/heap/HeapMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/heap/HeapMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/heap/HeapOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/heap/HeapOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/heap/MaximumItemsWithGivenSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/heap/MaximumItemsWithGivenSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/heap/SortKSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/heap/SortKSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/java_practice/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/java_practice/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/java_practice/Immutable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/java_practice/Immutable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/java_practice/PracticeVolatile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/java_practice/PracticeVolatile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/lambda/consumer/ConsumerFunctionalInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/lambda/consumer/ConsumerFunctionalInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/lambda/streams/Java8Lambdas$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/lambda/streams/Java8Lambdas$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DataStructure/lambda/streams/Java8Lambdas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/lambda/streams/Java8Lambdas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/CloneALinklist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/CloneALinklist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/DeleteNodeWithOnlyPointerGivenToIt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/DeleteNodeWithOnlyPointerGivenToIt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/DetectALoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/DetectALoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/DetectALoopUsingTemporaryNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/DetectALoopUsingTemporaryNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/IntersectionPointBetweenTwoLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/IntersectionPointBetweenTwoLinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/LRUCacheDesign.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/LRUCacheDesign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/LinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/LinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/LinkListOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/LinkListOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/PairwiseSwapNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/PairwiseSwapNodes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/RandomNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/RandomNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/RemoveALoopInLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/RemoveALoopInLinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/SegregateEvenOddNodesOfLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/SegregateEvenOddNodesOfLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/linklist/XorOps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/linklist/XorOps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/matrix/MatrixManipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/matrix/MatrixManipulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/matrix/PrintBoundaryElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/matrix/PrintBoundaryElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/matrix/PrintTheMatrixInSnakePattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/matrix/PrintTheMatrixInSnakePattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/matrix/RotateMatrixBy90DegreeAntiClockWise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/matrix/RotateMatrixBy90DegreeAntiClockWise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/matrix/SearchInRowAndColumnWiseSortedMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/matrix/SearchInRowAndColumnWiseSortedMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/matrix/SpiralMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/matrix/SpiralMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/matrix/TransposeMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/matrix/TransposeMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/paypal/MaximumSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/paypal/MaximumSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/paypal/PaintBuildings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/paypal/PaintBuildings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/paypal/PaintingBuildingsFinal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/paypal/PaintingBuildingsFinal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/paypal/SmallestString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/paypal/SmallestString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/queue/CircularQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/queue/CircularQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/queue/CircularQueueOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/queue/CircularQueueOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/queue/Dequeue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/queue/Dequeue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/queue/GenerateNumbersWithGivenDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/queue/GenerateNumbersWithGivenDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/queue/MaximumSumInSubArrayOfSizeK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/queue/MaximumSumInSubArrayOfSizeK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/queue/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/queue/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/queue/QueueLinklistOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/queue/QueueLinklistOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/queue/QueueOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/queue/QueueOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/queue/QueueUsingLinklist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/queue/QueueUsingLinklist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/queue/ReverseAQueueUsingRecursiveApproach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/queue/ReverseAQueueUsingRecursiveApproach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/queue/StackUsingQueues.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/queue/StackUsingQueues.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/queue/StackUsingQueuesOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/queue/StackUsingQueuesOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/recursion/GeneratePowerSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/recursion/GeneratePowerSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/recursion/PossibleWordFromPhoneDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/recursion/PossibleWordFromPhoneDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/recursion/TowerOfHanoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/recursion/TowerOfHanoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/soc_gen/Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/soc_gen/Position.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/soc_gen/Virus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/soc_gen/Virus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/tree/BinaryTreeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/tree/BinaryTreeMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/tree/BinaryTreeOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/tree/BinaryTreeOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/tree/Nodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/tree/Nodes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/utils/CommonUsedUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/utils/CommonUsedUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dynamic_programming/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamic_programming/CoinChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamic_programming/LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamic_programming/LongestIncreasingSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda/streams/Java8Lambdas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambda/streams/Java8Lambdas.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,6 +238,7 @@
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="2" />
@@ -72,36 +256,36 @@
           <entry key="project.open.time.59" value="1" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.60" value="1" />
-          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.62" value="2" />
           <entry key="project.open.time.63" value="2" />
           <entry key="project.open.time.65" value="1" />
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="76" />
+          <entry key="project.opened" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="572" />
+          <entry key="class" value="3" />
+          <entry key="java" value="587" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="572" />
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="587" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="259" />
-          <entry key="java" value="89055" />
+          <entry key="java" value="89825" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="89055" />
+          <entry key="JAVA" value="89825" />
           <entry key="PLAIN_TEXT" value="259" />
         </counts>
       </usages-collector>
@@ -110,10 +294,18 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dynamic_programming/CoinChange.java">
+        <entry file="file://$PROJECT_DIR$/src/basic/ClassFlow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <state relative-caret-position="85">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding>
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#638#639#0" expanded="true" />
+                <element signature="e#691#692#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -147,6 +339,7 @@
       <find>default</find>
       <find>Itera</find>
       <find>getPaintsOnBuildingInINteger</find>
+      <find>add</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -155,7 +348,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Arrays/LeftRotateAnArray.java" />
         <option value="$PROJECT_DIR$/src/Arrays/Test.java" />
         <option value="$PROJECT_DIR$/src/Arrays/NumberOfDays.java" />
         <option value="$PROJECT_DIR$/src/Arrays/CharactersInAMatrix.java" />
@@ -165,7 +357,6 @@
         <option value="$PROJECT_DIR$/src/tree/Nodes.java" />
         <option value="$PROJECT_DIR$/src/tree/BinaryTreeMain.java" />
         <option value="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTreeMain.java" />
-        <option value="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/binarysearchtree/GFG.java" />
         <option value="$PROJECT_DIR$/src/heap/HeapMain.java" />
         <option value="$PROJECT_DIR$/src/heap/HeapOperations.java" />
@@ -205,7 +396,9 @@
         <option value="$PROJECT_DIR$/src/paypal/PaintingBuildingsFinal.java" />
         <option value="$PROJECT_DIR$/src/paypal/SmallestString.java" />
         <option value="$PROJECT_DIR$/src/dynamic_programming/MaximumCut.java" />
+        <option value="$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/dynamic_programming/CoinChange.java" />
+        <option value="$PROJECT_DIR$/src/basic/ClassFlow.java" />
       </list>
     </option>
   </component>
@@ -226,7 +419,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="Course" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,26 +435,17 @@
               <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamic_programming" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Longes&#9;FILE&#9;file:///Users/bishal/Desktop/Bishal_Practice/DataStructure/src/dynamic_programming/LongestIncreasingSubsequence.java&#10;Rotate&#9;PSI&#9;JAVA://Arrays.LeftRotateAnArray&#10;Palin&#9;PSI&#9;JAVA://linklist.LinkList#isPalindrome&#10;Rain&#9;PSI&#9;JAVA://Arrays.TrappingTrainWater&#10;Revers&#9;PSI&#9;JAVA://linklist.LinkList#reverseTheLinkList" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588703056971" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588785705182" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -275,7 +462,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CoinChange">
+  <component name="RunManager" selected="Application.ClassFlow">
+    <configuration name="ClassFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.ClassFlow" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dynamic_programming.CoinChange" />
       <module name="DataStructure" />
@@ -315,19 +515,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaintingBuildingsFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="paypal.PaintingBuildingsFinal" />
-      <module name="DataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="paypal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SmallestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="paypal.SmallestString" />
       <module name="DataStructure" />
@@ -342,19 +529,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PaintingBuildingsFinal" />
       <item itemvalue="Application.MaximumSum" />
       <item itemvalue="Application.SmallestString" />
       <item itemvalue="Application.MaximumCut" />
       <item itemvalue="Application.CoinChange" />
+      <item itemvalue="Application.ClassFlow" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassFlow" />
         <item itemvalue="Application.CoinChange" />
         <item itemvalue="Application.MaximumCut" />
         <item itemvalue="Application.SmallestString" />
         <item itemvalue="Application.MaximumSum" />
-        <item itemvalue="Application.PaintingBuildingsFinal" />
       </list>
     </recent_temporary>
   </component>
@@ -417,7 +604,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Codota" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49906892" weight="0.09742121" />
+      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49906892" visible="true" weight="0.09742121" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Maven-2 Build" order="9" />
@@ -732,7 +919,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java</url>
-          <line>70</line>
+          <line>69</line>
           <properties />
           <option name="timeStamp" value="97" />
         </line-breakpoint>
@@ -858,35 +1045,27 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/dynamic_programming/CoinChange.java</url>
-          <line>83</line>
+          <line>98</line>
           <properties />
           <option name="timeStamp" value="140" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/dynamic_programming/CoinChange.java</url>
-          <line>72</line>
+          <line>87</line>
           <properties />
           <option name="timeStamp" value="141" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/dynamic_programming/CoinChange.java</url>
-          <line>75</line>
+          <line>90</line>
           <properties />
           <option name="timeStamp" value="143" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/dynamic_programming/CoinChange.java</url>
-          <line>78</line>
+          <line>93</line>
           <properties />
           <option name="timeStamp" value="144" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/dynamic_programming/CoinChange.java</url>
-          <line>6</line>
-          <properties class="dynamic_programming.CoinChange" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="146" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -953,58 +1132,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/backtracking/RatMazeProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/access_specifiers/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/access_specifiers/com/C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/access_specifiers/com/bishal/D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/LinkListOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="116" column="46" selection-start-line="116" selection-start-column="46" selection-end-line="116" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/access_specifiers/com/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backtracking/NQueen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sorting/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -1042,18 +1169,6 @@
           <caret line="603" column="5" lean-forward="true" selection-start-line="603" selection-start-column="5" selection-end-line="603" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1877">
-          <caret line="151" column="17" selection-start-line="151" selection-start-column="17" selection-end-line="151" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#8492#8493#0" expanded="true" />
-            <element signature="e#8542#8543#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1318,9 +1433,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="421">
           <caret line="90" selection-start-line="90" selection-end-line="90" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1338,9 +1450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1397,17 +1506,89 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="130" column="13" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="105" column="22" selection-start-line="105" selection-start-column="22" selection-end-line="105" selection-end-column="22" />
           <folding>
-            <element signature="e#7926#7927#0" expanded="true" />
-            <element signature="e#7957#7958#0" expanded="true" />
+            <element signature="e#3740#3741#0" expanded="true" />
+            <element signature="e#3777#3778#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/sun/tools/jar/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="75" column="20" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/SoftCache.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="224" column="12" selection-start-line="224" selection-start-column="12" selection-end-line="224" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="474" column="11" selection-start-line="474" selection-start-column="11" selection-end-line="474" selection-end-column="11" />
+          <folding>
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
+          <folding>
+            <element signature="e#6596#6597#0" expanded="true" />
+            <element signature="e#6640#6641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binarysearchtree/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dynamic_programming/CoinChange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="93">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basic/ClassFlow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1451,7 +1632,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
