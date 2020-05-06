@@ -283,7 +283,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/crio/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/crio/qwertyu.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/dynamic_programming/CoinChange.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/dynamic_programming/CountAllPalindromes.java">
           <value>
             <set />
           </value>
@@ -294,6 +309,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/dynamic_programming/LongestIncreasingSubsequence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/dynamic_programming/MaximumCut.java">
           <value>
             <set />
           </value>
@@ -413,6 +433,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/lambda/consumer/ConsumerFunctionalInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/lambda/streams/Java8Lambdas.java">
           <value>
             <set />
@@ -493,6 +518,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/paypal/MaximumSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/paypal/PaintBuildings.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/paypal/PaintingBuildingsFinal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/paypal/SmallestString.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/queue/CircularQueue.java">
           <value>
             <set />
@@ -554,6 +599,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/queue/dequeue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/soc_gen/Virus.java">
           <value>
             <set />
           </value>
@@ -1293,7 +1343,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/annotation/ElasticId.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/api/IssuanceController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/api/PolicyIssuanceAPI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/api/SearchController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/configuration/ElasticRestClienConfiguration.java">
           <value>
             <set />
           </value>
@@ -1303,7 +1373,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/dao/AbstractElasticDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/dao/PolicyIssuanceElasticDAOImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/mappers/ErrorResponseCreator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/mappers/PaginatedResults.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/mappers/PolicyIssuanceElasticMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/services/PolicyIssuanceService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/policyIssuance/services/impl/PolicyIssuanceElasticServiceImpl.java">
           <value>
             <set />
           </value>
@@ -1348,6 +1448,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/config/ElasticRestClienConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/config/RepositoryConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/constants/MISConstants.java">
           <value>
             <set />
@@ -1379,6 +1489,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/dao/impl/S3MISFileInfoDAOImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/login/controller/LoginAPI.java">
           <value>
             <set />
           </value>
@@ -1434,6 +1549,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/com/turtlemint/utility/TurtleDateUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/app/common/dao/impl/AbstractBaseDAOImpl.java">
           <value>
             <set />
           </value>
@@ -2238,7 +2358,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtle-constants/src/main/java/com/turtle/constants/mis/MISInsurerConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtle-constants/src/main/java/com/turtle/enums/ModulesEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtle_ansible/v2/files/publickeys/bishal.pub">
           <value>
             <set />
           </value>
@@ -2384,6 +2514,141 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtledata/ninja/mongo/updatePartnerBranchLocation.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/common/constants/ApiRoutes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/common/mappers/ResponseMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/common/utils/CriterionUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/common/utils/ResponseEntityUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/details/constants/DriverDetailConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/details/controller/CabDetailsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/details/controller/DriverDetailsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/details/dao/DriverDetailsDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/details/dao/implementation/AbstractBaseDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/details/dao/implementation/DriverDetailsDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/details/mappers/AvailableCarDetails.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/details/services/CabDetailsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/details/services/CabDetailsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/details/services/CarDetailsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/details/services/DriverDetailService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/details/services/implementation/DriverDetailServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/location/constants/DriverDetailConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/location/constants/DriverLocationConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/location/controller/DriverLocationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/location/dao/DriverLocationDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/location/dao/implementation/DriverLocationDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/location/mappers/DriverLocationMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/location/models/Location.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/location/service/DriverLocationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/driver/location/service/implementation/DriverLocationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../codejudge/test-109-q-b7419c16402e4f908fded82b67b603e2--sb1.5.21R-j1.8-maven-in-docker/src/main/java/org/codejudge/sb/models/UserDetails.java">
           <value>
             <set />
           </value>

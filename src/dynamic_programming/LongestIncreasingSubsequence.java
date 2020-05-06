@@ -13,7 +13,6 @@ public class LongestIncreasingSubsequence {
         if(index == arr.length)
             return 0;
 
-
         int lengthIncluding =0;
         if(arr[index] > lastValue)
             lengthIncluding = 1 + getTheLongestIncreasingSubsequence(arr, index+1, arr[index]);
