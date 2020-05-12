@@ -313,12 +313,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/dynamic_programming/KnapSackZeroOne.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/dynamic_programming/LongestIncreasingSubsequence.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/dynamic_programming/MaximumCut.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/dynamic_programming/MinimumJump.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/dynamic_programming/zeroOneKnapsack.java">
           <value>
             <set />
           </value>
@@ -2789,6 +2804,11 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/Downloads/kafka/src/main/java/com/practice/tutorial1/elasticsearch/consumer/ElasticSearchConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
           <value>
             <set />
           </value>

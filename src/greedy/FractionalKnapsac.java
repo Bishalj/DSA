@@ -18,6 +18,7 @@ public class FractionalKnapsac {
         };
         int maxCapacity = 70;
         int maxCapacity2 = 15;
+        System.out.println(getTheMaximumKnapsackValue(items, maxCapacity));
         System.out.println(getTheMaximumKnapsackValue(items2, maxCapacity2));
     }
 
