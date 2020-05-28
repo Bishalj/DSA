@@ -43,6 +43,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/Arrays/ReverseTheBits.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/Arrays/Test.java">
           <value>
             <set />
@@ -253,6 +258,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/access_specifiers/com/bishal/Multiply.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/backtracking/NQueen.java">
           <value>
             <set />
@@ -323,6 +333,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/dynamic_programming/KnapSackZeroOneDP.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/dynamic_programming/LongestIncreasingSubsequence.java">
           <value>
             <set />
@@ -359,6 +374,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/graph/GraphWithArraylist.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/graph/WareHouse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/graph/WareHousing.java">
           <value>
             <set />
           </value>
@@ -1828,7 +1853,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/analytics/service/impl/AnalyticsServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/mis/dao/impl/PolicyDetailsDAOImplTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/mis/initializer/PolicyDetailInitializer.java">
           <value>
             <set />
           </value>
@@ -1864,6 +1899,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/mis/policy/initialize/PolicyMapperInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/ninja-service/turtlemint/test/com/mis/services/impl/PolicySaleAnalyticsServiceImplTest.java">
           <value>
             <set />
           </value>
@@ -2439,6 +2479,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtle_ansible/v2/roles/build-tm-services/play/templates/ninja-service-backend/application.stage.conf.j2">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ProjectRepoBackend/turtle_ansible/v2/roles/build-tm-services/play/templates/ninja-service-backend/production.prod.conf.j2">
           <value>
             <set />
           </value>
