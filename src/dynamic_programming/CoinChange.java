@@ -2,10 +2,8 @@ package dynamic_programming;
 
 import java.util.*;
 
-public class CoinChange implements a,b{
+public class CoinChange implements b{
     public static void main(String[] args) {
-        var aa = new ArrayList<>();
-        System.out.println(aa);
         b az = new CoinChange();
          az.display();
         Set<Integer> set = new HashSet<>();
@@ -112,12 +110,6 @@ public class CoinChange implements a,b{
 
     }
 
-}
-
-interface  a{
-    private void display(){
-        System.out.println("inside a");
-    }
 }
 
 interface  b{

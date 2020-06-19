@@ -46,7 +46,9 @@ public class LinkListOperations {
         System.out.println("The "+ k +"th element is: " + linkList.getNthNodeOfTheLinkList(k) );
         linkList.deleteValue(-10);
         linkList.display();
-        System.out.println("---------------------Swap--------------------");
+        System.out.println("---------------------Swap9999--------------------");
+        PairwiseSwapNodes.swapNodes(linkList);
+        linkList.display();
         PairwiseSwapNodes.swapNodes(linkList);
         linkList.display();
         System.out.println("Segregate----------------------------");
