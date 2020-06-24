@@ -8,7 +8,10 @@ public class LinkListOperations {
         linkList.insertBegin(1);
         linkList.insertBegin(2);
         linkList.insertBegin(3);
+        linkList.insertBegin(3);
+        linkList.insertBegin(1);
         linkList.display();
+        linkList.condense(linkList.getHead());
         System.out.println(linkList.getTheMiddleElementInALinklist());
         System.out.println("The "+ k +"th element is: " + linkList.getNthNodeOfTheLinkList(k) );
 

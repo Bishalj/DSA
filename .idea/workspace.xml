@@ -2,32 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef6ca4ed-79ac-4571-9b13-ce0cadfe321f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SecondHighest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/EggDropping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/Graph2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heap/Median.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heap/MergeKSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/BinaryTreePracticeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/TestTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ProducerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Tracxn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linklist/RTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Arrays/CanYouSolveIt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/linklist/LinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/linklist/LinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/linklist/LinkListOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/linklist/LinkListOperations.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Arrays/CanYouSolveIt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/CanYouSolveIt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/StockBuyProblemPart1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/StockBuyProblemPart1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamic_programming/CoinChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamic_programming/CoinChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/KDifferenceSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/KDifferenceSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linklist/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linklist/LinkList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/linklist/LinkListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linklist/LinkListOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linklist/PairwiseSwapNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linklist/PairwiseSwapNodes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/BinaryTreeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/BinaryTreeMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/Nodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/Nodes.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,33 +26,35 @@
     <session id="-489137582">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="104" />
+          <entry key="java" value="122" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="104" />
+          <entry key="JAVA" value="122" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="9701" />
+          <entry key="java" value="12170" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9701" />
+          <entry key="JAVA" value="12170" />
         </counts>
       </usages-collector>
     </session>
@@ -74,10 +62,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/tree/BinaryTreeMain.java">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/ProducerConsumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="92" column="47" lean-forward="true" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="47" />
+            <state relative-caret-position="787">
+              <caret line="50" column="66" selection-start-line="50" selection-start-column="66" selection-end-line="50" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -100,6 +88,7 @@
       <find>revers</find>
       <find>heigh</find>
       <find>Height of the tree:</find>
+      <find>remove</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -137,13 +126,22 @@
         <option value="$PROJECT_DIR$/src/backtracking/RatMazeProblem.java" />
         <option value="$PROJECT_DIR$/src/graph/EggDropping.java" />
         <option value="$PROJECT_DIR$/src/tree/TestTree.java" />
-        <option value="$PROJECT_DIR$/src/linklist/LinkListOperations.java" />
         <option value="$PROJECT_DIR$/src/linklist/PairwiseSwapNodes.java" />
         <option value="$PROJECT_DIR$/src/graph/Graph.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/CanYouSolveIt.java" />
         <option value="$PROJECT_DIR$/src/Arrays/SecondHighest.java" />
         <option value="$PROJECT_DIR$/src/tree/Nodes.java" />
         <option value="$PROJECT_DIR$/src/tree/BinaryTreeMain.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/KDifferenceSubArray.java" />
+        <option value="$PROJECT_DIR$/src/linklist/RTest.java" />
+        <option value="$PROJECT_DIR$/src/linklist/LinkList.java" />
+        <option value="$PROJECT_DIR$/src/linklist/LinkListOperations.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/CanYouSolveIt.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Tracxn.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Tracxn2.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/we.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/ProducerConsumerProblem.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Producer.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/ProducerConsumer.java" />
       </list>
     </option>
   </component>
@@ -154,15 +152,17 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="53" />
-    <option name="width" value="1648" />
-    <option name="height" value="976" />
+    <option name="y" value="23" />
+    <option name="width" value="1408" />
+    <option name="height" value="826" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,19 +175,29 @@
               <item name="DSA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DSA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="linklist" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Course" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Bina&#9;FILE&#9;file:///Users/bishal/Desktop/Bishal_Project/Git_Projects/DSA/src/tree/BinaryTreeMain.java&#10;Trip&#9;PSI&#9;JAVA://Searching.TripletSum&#10;Tower&#9;PSI&#9;JAVA://recursion.TowerOfHanoi&#10;Sto&#9;FILE&#9;file:///Users/bishal/Desktop/Bishal_Project/Git_Projects/DSA/src/Arrays/StockBuyProblemPart1.java&#10;Stock&#9;PSI&#9;JAVA://Stack.StockSpanProblem&#10;Stoc&#9;PSI&#9;JAVA://Arrays.StockBuyProblemPart1" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592562012337" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593018768894" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
@@ -203,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryTreeMain">
+  <component name="RunManager" selected="Application.MainOperation">
     <configuration name="BinaryTreeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.BinaryTreeMain" />
       <module name="DSA" />
@@ -217,8 +227,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CanYouSolveIt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.CanYouSolveIt" />
+    <configuration name="KDifferenceSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.KDifferenceSubArray" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -230,34 +240,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondHighest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SecondHighest" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tree.TestTree" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="op" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linklist.op" />
+    <configuration name="LinkListOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linklist.LinkListOperations" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -269,20 +253,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.MainOperation" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tracxn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Tracxn" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.TestTree" />
-      <item itemvalue="Application.op" />
       <item itemvalue="Application.BinaryTreeMain" />
-      <item itemvalue="Application.CanYouSolveIt" />
-      <item itemvalue="Application.SecondHighest" />
+      <item itemvalue="Application.KDifferenceSubArray" />
+      <item itemvalue="Application.LinkListOperations" />
+      <item itemvalue="Application.Tracxn" />
+      <item itemvalue="Application.MainOperation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainOperation" />
+        <item itemvalue="Application.Tracxn" />
+        <item itemvalue="Application.LinkListOperations" />
+        <item itemvalue="Application.KDifferenceSubArray" />
         <item itemvalue="Application.BinaryTreeMain" />
-        <item itemvalue="Application.SecondHighest" />
-        <item itemvalue="Application.CanYouSolveIt" />
-        <item itemvalue="Application.op" />
-        <item itemvalue="Application.TestTree" />
       </list>
     </recent_temporary>
   </component>
@@ -311,8 +321,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24034335" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23319027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -328,7 +339,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Log Viewer" order="7" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32919255" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
@@ -346,7 +357,7 @@
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Maven-2 Build" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32904148" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32832617" />
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
@@ -430,21 +441,54 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/CanYouSolveIt.java</url>
-          <line>24</line>
+          <line>25</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/CanYouSolveIt.java</url>
-          <line>19</line>
+          <line>20</line>
           <properties />
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/KDifferenceSubArray.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linklist/LinkList.java</url>
+          <line>204</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/Tracxn.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>ingedientCount</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ingedientCountn</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>minHeap.peekFirst()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>s</expression-string>
         <language-id>JAVA</language-id>
@@ -598,9 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -625,13 +666,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/LinkListOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -719,17 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/CanYouSolveIt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#540#557#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Searching/TripletSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -741,13 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-302">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/LinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="136" column="22" selection-start-line="136" selection-start-column="16" selection-end-line="136" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -776,6 +792,94 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
           <caret line="92" column="47" lean-forward="true" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/KDifferenceSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linklist/RTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linklist/LinkListOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linklist/LinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-125">
+          <caret line="209" selection-start-line="209" selection-end-line="209" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/CanYouSolveIt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Tracxn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" lean-forward="true" selection-end-line="119" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Tracxn2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/we.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="266" column="13" selection-start-line="266" selection-start-column="13" selection-end-line="266" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/ProducerConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="50" column="66" selection-start-line="50" selection-start-column="66" selection-end-line="50" selection-end-column="66" />
         </state>
       </provider>
     </entry>
