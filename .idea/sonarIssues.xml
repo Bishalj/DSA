@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/Arrays/FindNumInRotateArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/Arrays/KDifferenceSubArray.java">
           <value>
             <set />
@@ -28,6 +33,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/Arrays/RepeatingNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/Arrays/SecondHighest.java">
           <value>
             <set />
@@ -38,12 +48,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/Arrays/ThreeDSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/Arrays/Tracxn.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/Arrays/Tracxn2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Arrays/distance/Coordinate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Arrays/distance/DistanceCalculatorServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Arrays/sa.java">
           <value>
             <set />
           </value>
@@ -59,6 +89,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/backtracking/RatMazeProblem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/design_pattern/ObserverPattern.java">
           <value>
             <set />
           </value>
@@ -193,6 +228,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/ninja-service/turtlemint/app/com/admin/renewals/services/mapper/RenewalMapperService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/ninja-service/turtlemint/app/com/agentpro/service/AgentProService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/ninja-service/turtlemint/app/com/common/annotation/EncryptedClass.java">
           <value>
             <set />
@@ -238,6 +283,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/login/service/impl/TurtleAdminUserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/mapper/MISObjectMapperService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/models/PolicyDetail.java">
           <value>
             <set />
@@ -253,6 +308,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/IPolicyDetailService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/PolicySearchCriteria.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/impl/MISFileManagerServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/ninja-service/turtlemint/app/com/mis/services/impl/PolicyDetailServiceImpl.java">
           <value>
             <set />
@@ -263,12 +333,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/ninja-service/turtlemint/app/controllers/CommonAdminController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/ninja-service/turtlemint/app/models/CommonFilters.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/ninja-service/turtlemint/app/services/elasticsearch/ElasticConfig.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/ninja-service/turtlemint/build.sbt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/ninja-service/turtlemint/conf/routes">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/ninja-service/turtlemint/test/com/admin/decentralised/operations/decentralisedrules/services/impl/DecentralisationRulesDerivationServiceImplTests.java">
           <value>
             <set />
           </value>
@@ -289,6 +379,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/turtle-beans/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/turtle-beans/src/main/java/com/turtle/beans/enums/policyissuance/PreSaleVerificationStatus.java">
           <value>
             <set />
           </value>
@@ -344,6 +439,36 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../ProjectRepoBackend/turtle_ansible/v2/vars/turtlemint/common_stage_constants.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/MultiThreading/src/CompleCalculation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/MultiThreading/src/CountDownLatch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/MultiThreading/src/DeadLock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/MultiThreading/src/HackerVaultProblem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/MultiThreading/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/MultiThreading/src/UnderstandingVisibilityProblem.java">
           <value>
             <set />
           </value>

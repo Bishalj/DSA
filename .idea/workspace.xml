@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef6ca4ed-79ac-4571-9b13-ce0cadfe321f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ProducerConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Tracxn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linklist/RTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FindNumInRotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/RepeatingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ThreeDSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/distance/Coordinate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/distance/DistanceCalculatorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/sa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design_pattern/ObserverPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Arrays/CanYouSolveIt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/linklist/LinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/linklist/LinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/linklist/LinkListOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/linklist/LinkListOperations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/CanYouSolveIt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/CanYouSolveIt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/KDifferenceSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/KDifferenceSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linklist/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linklist/LinkList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linklist/LinkListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linklist/LinkListOperations.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,35 +23,40 @@
     <session id="-489137582">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.31" value="2" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="122" />
+          <entry key="java" value="138" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="122" />
+          <entry key="JAVA" value="138" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="12170" />
+          <entry key="java" value="15896" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12170" />
+          <entry key="JAVA" value="15896" />
         </counts>
       </usages-collector>
     </session>
@@ -62,10 +64,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Arrays/ProducerConsumer.java">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/distance/DistanceCalculatorServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="787">
-              <caret line="50" column="66" selection-start-line="50" selection-start-column="66" selection-end-line="50" selection-end-column="66" />
+            <state relative-caret-position="358">
+              <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,6 +147,14 @@
         <option value="$PROJECT_DIR$/src/Arrays/ProducerConsumerProblem.java" />
         <option value="$PROJECT_DIR$/src/Arrays/Producer.java" />
         <option value="$PROJECT_DIR$/src/Arrays/ProducerConsumer.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/sa.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/FindNumInRotateArray.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/Observer.java" />
+        <option value="$PROJECT_DIR$/src/design_pattern/ObserverPattern.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/RepeatingNumber.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/ThreeDSum.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/distance/Coordinate.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/distance/DistanceCalculatorServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -151,9 +164,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
-    <option name="width" value="1408" />
+    <option name="width" value="1440" />
     <option name="height" value="826" />
   </component>
   <component name="ProjectView">
@@ -161,8 +174,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,25 +196,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Arrays" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="linklist" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Bina&#9;FILE&#9;file:///Users/bishal/Desktop/Bishal_Project/Git_Projects/DSA/src/tree/BinaryTreeMain.java&#10;Trip&#9;PSI&#9;JAVA://Searching.TripletSum&#10;Tower&#9;PSI&#9;JAVA://recursion.TowerOfHanoi&#10;Sto&#9;FILE&#9;file:///Users/bishal/Desktop/Bishal_Project/Git_Projects/DSA/src/Arrays/StockBuyProblemPart1.java&#10;Stock&#9;PSI&#9;JAVA://Stack.StockSpanProblem&#10;Stoc&#9;PSI&#9;JAVA://Arrays.StockBuyProblemPart1" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593018768894" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594379350703" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Arrays.distance" />
+      <recent name="design_pattern" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -213,22 +226,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainOperation">
-    <configuration name="BinaryTreeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tree.BinaryTreeMain" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KDifferenceSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.KDifferenceSubArray" />
+  <component name="RunManager" selected="Application.Operation">
+    <configuration name="ComplexCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ComplexCalculation" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -240,21 +240,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkListOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linklist.LinkListOperations" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linklist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.MainOperation" />
+    <configuration name="FindNumInRotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.FindNumInRotateArray" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -266,8 +253,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tracxn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.Tracxn" />
+    <configuration name="ObserverPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.ObserverPattern" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design_pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.distance.Operation" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.distance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.RepeatingNumber" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -280,19 +293,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinaryTreeMain" />
-      <item itemvalue="Application.KDifferenceSubArray" />
-      <item itemvalue="Application.LinkListOperations" />
-      <item itemvalue="Application.Tracxn" />
-      <item itemvalue="Application.MainOperation" />
+      <item itemvalue="Application.ComplexCalculation" />
+      <item itemvalue="Application.FindNumInRotateArray" />
+      <item itemvalue="Application.ObserverPattern" />
+      <item itemvalue="Application.RepeatingNumber" />
+      <item itemvalue="Application.Operation" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainOperation" />
-        <item itemvalue="Application.Tracxn" />
-        <item itemvalue="Application.LinkListOperations" />
-        <item itemvalue="Application.KDifferenceSubArray" />
-        <item itemvalue="Application.BinaryTreeMain" />
+        <item itemvalue="Application.Operation" />
+        <item itemvalue="Application.RepeatingNumber" />
+        <item itemvalue="Application.ObserverPattern" />
+        <item itemvalue="Application.FindNumInRotateArray" />
+        <item itemvalue="Application.ComplexCalculation" />
       </list>
     </recent_temporary>
   </component>
@@ -320,10 +333,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23319027" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22317597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -357,7 +370,7 @@
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" id="Maven-2 Build" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32832617" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3197425" />
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
@@ -512,69 +525,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/dynamic_programming/CoinChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/String/LongestProperPrefxSuffix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/String/KMPAlgorithmForPatternSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hashing/CountDistinctElementsInEveryWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hashing/LongestConsecutiveSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linklist/CloneALinklist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-183">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="92" column="1" lean-forward="true" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/heap/HeapMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/heap/HeapOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="109" column="20" lean-forward="true" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/heap/SortKSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
@@ -809,9 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="5" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -853,9 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
           <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -863,9 +807,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="611">
           <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -878,8 +819,75 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Arrays/ProducerConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="787">
+        <state relative-caret-position="850">
           <caret line="50" column="66" selection-start-line="50" selection-start-column="66" selection-end-line="50" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/joining-threads-example/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/sa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="112" column="49" selection-start-line="112" selection-start-column="49" selection-end-line="112" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/FindNumInRotateArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/Observer.java" />
+    <entry file="file://$PROJECT_DIR$/src/design_pattern/ObserverPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/RepeatingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/ThreeDSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/distance/Coordinate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/distance/DistanceCalculatorServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
