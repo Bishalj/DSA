@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef6ca4ed-79ac-4571-9b13-ce0cadfe321f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/september/LastTimeForGivenDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/VersionNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/october/RecoverIntervals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Arrays/distance/DistanceCalculatorServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Arrays/distance/DistanceCalculatorServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/Arrays/distance/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Arrays/distance/Operation.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,33 +71,7 @@
       <recent name="design_pattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Operation">
-    <configuration name="ComplexCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ComplexCalculation" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindNumInRotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.FindNumInRotateArray" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RecoverIntervals">
     <configuration name="ObserverPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="design_pattern.ObserverPattern" />
       <module name="DSA" />
@@ -121,6 +98,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RecoverIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.october.RecoverIntervals" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.october.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RepeatingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.RepeatingNumber" />
       <module name="DSA" />
@@ -134,20 +124,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VersionNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.VersionNumber" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ComplexCalculation" />
-      <item itemvalue="Application.FindNumInRotateArray" />
       <item itemvalue="Application.ObserverPattern" />
       <item itemvalue="Application.Operation" />
+      <item itemvalue="Application.RecoverIntervals" />
       <item itemvalue="Application.RepeatingNumber" />
+      <item itemvalue="Application.VersionNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecoverIntervals" />
+        <item itemvalue="Application.VersionNumber" />
         <item itemvalue="Application.Operation" />
         <item itemvalue="Application.RepeatingNumber" />
         <item itemvalue="Application.ObserverPattern" />
-        <item itemvalue="Application.FindNumInRotateArray" />
-        <item itemvalue="Application.ComplexCalculation" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +191,46 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="413" y="257" key="#xdebugger.evaluate" timestamp="1601869395971">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="413" y="257" key="#xdebugger.evaluate/0.27.1366.741@0.27.1366.741" timestamp="1601869395971" />
+    <state x="466" y="112" width="424" height="513" key="FileChooserDialogImpl" timestamp="1599499101958">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="466" y="112" width="424" height="513" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1599499101958" />
+    <state width="1320" height="230" key="GridCell.Tab.0.bottom" timestamp="1601872451751">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601872451751" />
+    <state width="1320" height="230" key="GridCell.Tab.0.center" timestamp="1601872451750">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1601872451750" />
+    <state width="1320" height="230" key="GridCell.Tab.0.left" timestamp="1601872451748">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1601872451748" />
+    <state width="1320" height="230" key="GridCell.Tab.0.right" timestamp="1601872451751">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601872451751" />
+    <state width="1320" height="230" key="GridCell.Tab.1.bottom" timestamp="1601872451753">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601872451753" />
+    <state width="1320" height="230" key="GridCell.Tab.1.center" timestamp="1601872451752">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1601872451752" />
+    <state width="1320" height="230" key="GridCell.Tab.1.left" timestamp="1601872451752">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1601872451752" />
+    <state width="1320" height="230" key="GridCell.Tab.1.right" timestamp="1601872451753">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1601872451753" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1599104267147">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -281,47 +324,18 @@
           <line>23</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/VersionNumber.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/october/RecoverIntervals.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>ingedientCount</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>ingedientCountn</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>minHeap.peekFirst()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.pee</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.peek()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>i</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
   <component name="masterDetails">
     <states>
