@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef6ca4ed-79ac-4571-9b13-ce0cadfe321f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/VersionNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/october/RecoverIntervals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Arrays/distance/DistanceCalculatorServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Arrays/distance/DistanceCalculatorServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/Arrays/distance/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/Arrays/distance/Operation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/october/RecoverIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/october/RecoverIntervals.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +68,13 @@
       <recent name="design_pattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RecoverIntervals">
-    <configuration name="ObserverPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.ObserverPattern" />
+  <component name="RunManager" selected="Application.Asteroids">
+    <configuration name="Asteroids" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.october.Asteroids" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.*" />
+          <option name="PATTERN" value="leetcode.october.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,19 +135,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ObserverPattern" />
       <item itemvalue="Application.Operation" />
       <item itemvalue="Application.RecoverIntervals" />
       <item itemvalue="Application.RepeatingNumber" />
       <item itemvalue="Application.VersionNumber" />
+      <item itemvalue="Application.Asteroids" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Asteroids" />
         <item itemvalue="Application.RecoverIntervals" />
         <item itemvalue="Application.VersionNumber" />
         <item itemvalue="Application.Operation" />
         <item itemvalue="Application.RepeatingNumber" />
-        <item itemvalue="Application.ObserverPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -199,37 +196,45 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="466" y="112" width="424" height="513" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1599499101958" />
-    <state width="1320" height="230" key="GridCell.Tab.0.bottom" timestamp="1601872451751">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1234" height="199" key="GridCell.Tab.0.bottom" timestamp="1603288546052">
+      <screen x="0" y="27" width="1280" height="693" />
     </state>
+    <state width="1234" height="199" key="GridCell.Tab.0.bottom/0.27.1280.693/0.27.1280.693@0.27.1280.693" timestamp="1603288546052" />
     <state width="1320" height="230" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601872451751" />
-    <state width="1320" height="230" key="GridCell.Tab.0.center" timestamp="1601872451750">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1234" height="199" key="GridCell.Tab.0.center" timestamp="1603288546052">
+      <screen x="0" y="27" width="1280" height="693" />
     </state>
+    <state width="1234" height="199" key="GridCell.Tab.0.center/0.27.1280.693/0.27.1280.693@0.27.1280.693" timestamp="1603288546052" />
     <state width="1320" height="230" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1601872451750" />
-    <state width="1320" height="230" key="GridCell.Tab.0.left" timestamp="1601872451748">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1234" height="199" key="GridCell.Tab.0.left" timestamp="1603288546051">
+      <screen x="0" y="27" width="1280" height="693" />
     </state>
+    <state width="1234" height="199" key="GridCell.Tab.0.left/0.27.1280.693/0.27.1280.693@0.27.1280.693" timestamp="1603288546051" />
     <state width="1320" height="230" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1601872451748" />
-    <state width="1320" height="230" key="GridCell.Tab.0.right" timestamp="1601872451751">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1234" height="199" key="GridCell.Tab.0.right" timestamp="1603288546052">
+      <screen x="0" y="27" width="1280" height="693" />
     </state>
+    <state width="1234" height="199" key="GridCell.Tab.0.right/0.27.1280.693/0.27.1280.693@0.27.1280.693" timestamp="1603288546052" />
     <state width="1320" height="230" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1601872451751" />
-    <state width="1320" height="230" key="GridCell.Tab.1.bottom" timestamp="1601872451753">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1234" height="199" key="GridCell.Tab.1.bottom" timestamp="1603288546531">
+      <screen x="0" y="27" width="1280" height="693" />
     </state>
+    <state width="1234" height="199" key="GridCell.Tab.1.bottom/0.27.1280.693/0.27.1280.693@0.27.1280.693" timestamp="1603288546531" />
     <state width="1320" height="230" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1601872451753" />
-    <state width="1320" height="230" key="GridCell.Tab.1.center" timestamp="1601872451752">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1234" height="199" key="GridCell.Tab.1.center" timestamp="1603288546531">
+      <screen x="0" y="27" width="1280" height="693" />
     </state>
+    <state width="1234" height="199" key="GridCell.Tab.1.center/0.27.1280.693/0.27.1280.693@0.27.1280.693" timestamp="1603288546531" />
     <state width="1320" height="230" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1601872451752" />
-    <state width="1320" height="230" key="GridCell.Tab.1.left" timestamp="1601872451752">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1234" height="199" key="GridCell.Tab.1.left" timestamp="1603288546531">
+      <screen x="0" y="27" width="1280" height="693" />
     </state>
+    <state width="1234" height="199" key="GridCell.Tab.1.left/0.27.1280.693/0.27.1280.693@0.27.1280.693" timestamp="1603288546531" />
     <state width="1320" height="230" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1601872451752" />
-    <state width="1320" height="230" key="GridCell.Tab.1.right" timestamp="1601872451753">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state width="1234" height="199" key="GridCell.Tab.1.right" timestamp="1603288546531">
+      <screen x="0" y="27" width="1280" height="693" />
     </state>
+    <state width="1234" height="199" key="GridCell.Tab.1.right/0.27.1280.693/0.27.1280.693@0.27.1280.693" timestamp="1603288546531" />
     <state width="1320" height="230" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1601872451753" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1599104267147">
       <screen x="0" y="27" width="1366" height="741" />
@@ -333,6 +338,11 @@
           <url>file://$PROJECT_DIR$/src/leetcode/october/RecoverIntervals.java</url>
           <line>33</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/october/Asteroids.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
