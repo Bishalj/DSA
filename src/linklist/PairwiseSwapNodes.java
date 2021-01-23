@@ -1,7 +1,5 @@
 package linklist;
 
-import jdk.nashorn.internal.ir.WhileNode;
-
 public class PairwiseSwapNodes {
 
     public static void swapNodes(LinkList linkList){
