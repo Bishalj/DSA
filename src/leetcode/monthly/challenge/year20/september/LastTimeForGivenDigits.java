@@ -1,4 +1,4 @@
-package leetcode.september;
+package leetcode.monthly.challenge.year20.september;
 
 import java.util.Arrays;
 
