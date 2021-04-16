@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef6ca4ed-79ac-4571-9b13-ce0cadfe321f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/practice/ReverseLinklist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/CycleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/LPSArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/linklist/LinkListPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +77,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.42446044" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -81,13 +85,13 @@
       <recent name="design_pattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseLinklist">
-    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.practice.AddTwoNumbers" />
+  <component name="RunManager" selected="Application.LinkListPractice">
+    <configuration name="CycleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.CycleSort" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.practice.*" />
+          <option name="PATTERN" value="gfg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,14 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Counting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Library/Java/JavaVirtualMachines/adopt-openjdk-11.0.9.1/Contents/Home" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="graph.Counting" />
+    <configuration name="LPSArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.LPSArray" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="graph.*" />
+          <option name="PATTERN" value="gfg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +112,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinklist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.practice.ReverseLinklist" />
+    <configuration name="LinkListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.linklist.LinkListPractice" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.practice.*" />
+          <option name="PATTERN" value="gfg.linklist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortInversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.MergeSortInversion" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gfg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.QuickSort" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gfg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,16 +165,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AddTwoNumbers" />
-      <item itemvalue="Application.Counting" />
-      <item itemvalue="Application.ReverseLinklist" />
+      <item itemvalue="Application.MergeSortInversion" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.CycleSort" />
       <item itemvalue="Java Scratch.Unnamed" />
+      <item itemvalue="Application.LPSArray" />
+      <item itemvalue="Application.LinkListPractice" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseLinklist" />
-        <item itemvalue="Application.AddTwoNumbers" />
-        <item itemvalue="Application.Counting" />
+        <item itemvalue="Application.LinkListPractice" />
+        <item itemvalue="Application.LPSArray" />
+        <item itemvalue="Application.CycleSort" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.MergeSortInversion" />
       </list>
     </recent_temporary>
   </component>
