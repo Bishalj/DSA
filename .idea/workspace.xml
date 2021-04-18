@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef6ca4ed-79ac-4571-9b13-ce0cadfe321f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/gfg/CycleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gfg/LPSArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gfg/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gfg/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gfg/linklist/LinkListPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/stack/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/tree/PracticeTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +82,7 @@
       <recent name="design_pattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkListPractice">
+  <component name="RunManager" selected="Application.PracticeTree">
     <configuration name="CycleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gfg.CycleSort" />
       <module name="DSA" />
@@ -125,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortInversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gfg.MergeSortInversion" />
+    <configuration name="MyStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.stack.MyStack" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gfg.*" />
+          <option name="PATTERN" value="gfg.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gfg.QuickSort" />
+    <configuration name="PracticeTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.tree.PracticeTree" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gfg.*" />
+          <option name="PATTERN" value="gfg.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,20 +162,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MergeSortInversion" />
-      <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.CycleSort" />
       <item itemvalue="Java Scratch.Unnamed" />
       <item itemvalue="Application.LPSArray" />
       <item itemvalue="Application.LinkListPractice" />
+      <item itemvalue="Application.MyStack" />
+      <item itemvalue="Application.PracticeTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PracticeTree" />
+        <item itemvalue="Application.MyStack" />
         <item itemvalue="Application.LinkListPractice" />
         <item itemvalue="Application.LPSArray" />
         <item itemvalue="Application.CycleSort" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.MergeSortInversion" />
       </list>
     </recent_temporary>
   </component>
