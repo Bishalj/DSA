@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef6ca4ed-79ac-4571-9b13-ce0cadfe321f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/gfg/stack/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gfg/tree/PracticeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gfg/tree/NodeTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/gfg/tree/NodeTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/gfg/tree/NodeTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gfg/binary/search/tree/BinarySearchTreePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gfg/binary/search/tree/BinarySearchTreePractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gfg/tree/PracticeTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gfg/tree/PracticeTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,14 +83,17 @@
       <recent name="Arrays.distance" />
       <recent name="design_pattern" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="gfg.tree" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.PracticeTree">
-    <configuration name="CycleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gfg.CycleSort" />
+  <component name="RunManager" selected="Application.BinarySearchTreePractice">
+    <configuration name="BinarySearchTreePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gfg.binary.search.tree.BinarySearchTreePractice" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gfg.*" />
+          <option name="PATTERN" value="gfg.binary.search.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,20 +167,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CycleSort" />
       <item itemvalue="Java Scratch.Unnamed" />
       <item itemvalue="Application.LPSArray" />
       <item itemvalue="Application.LinkListPractice" />
       <item itemvalue="Application.MyStack" />
       <item itemvalue="Application.PracticeTree" />
+      <item itemvalue="Application.BinarySearchTreePractice" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearchTreePractice" />
         <item itemvalue="Application.PracticeTree" />
         <item itemvalue="Application.MyStack" />
         <item itemvalue="Application.LinkListPractice" />
         <item itemvalue="Application.LPSArray" />
-        <item itemvalue="Application.CycleSort" />
       </list>
     </recent_temporary>
   </component>

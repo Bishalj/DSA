@@ -217,12 +217,3 @@ public class PracticeTree {
   }
 }
 
-class NodeTree {
-  int key;
-  NodeTree left;
-  NodeTree right;
-
-  NodeTree(int key) {
-    this.key = key;
-  }
-}
