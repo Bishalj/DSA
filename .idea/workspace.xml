@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef6ca4ed-79ac-4571-9b13-ce0cadfe321f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/famous_interview/array/MaximumDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/famous_interview/array/StockBuyAndSell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/famous_interview/array/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/famous_interview/string/KMP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/cracking_the_coding_interview/Array_String/UniqueCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/cracking_the_coding_interview/Array_String/UniqueCharacters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cracking_the_coding_interview/Array_String/UniqueCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cracking_the_coding_interview/Array_String/UniqueCharacters.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +87,20 @@
       <recent name="gfg.tree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TrappingRainWater">
+  <component name="RunManager" selected="Application.KMP">
+    <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="famous_interview.string.KMP" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="famous_interview.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaximumDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="famous_interview.array.MaximumDifference" />
       <module name="DSA" />
@@ -144,21 +153,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="adopt-openjdk-11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="cracking_the_coding_interview.Array_String.UniqueCharacters" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cracking_the_coding_interview.Array_String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Unnamed" type="Java Scratch" nameIsGenerated="true">
       <module name="DSA" />
       <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/src/graph/Counting.java" />
@@ -173,20 +167,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.UniqueCharacters" />
       <item itemvalue="Application.Solution2" />
       <item itemvalue="Application.MaximumDifference" />
       <item itemvalue="Application.StockBuyAndSell" />
       <item itemvalue="Application.TrappingRainWater" />
+      <item itemvalue="Application.KMP" />
       <item itemvalue="Java Scratch.Unnamed" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KMP" />
         <item itemvalue="Application.TrappingRainWater" />
         <item itemvalue="Application.StockBuyAndSell" />
         <item itemvalue="Application.MaximumDifference" />
         <item itemvalue="Application.Solution2" />
-        <item itemvalue="Application.UniqueCharacters" />
       </list>
     </recent_temporary>
   </component>
