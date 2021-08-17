@@ -19,9 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef6ca4ed-79ac-4571-9b13-ce0cadfe321f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/famous_interview/string/KMP.java" afterDir="false" />
+    <list default="true" id="ef6ca4ed-79ac-4571-9b13-ce0cadfe321f" name="Default Changelist" comment="Kmp algorithm">
+      <change afterPath="$PROJECT_DIR$/src/famous_interview/linklist/PartitionByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/famous_interview/linklist/ReverseInGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/famous_interview/searching/RotatedSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/famous_interview/sort/MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/famous_interview/array/MaximumDifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/famous_interview/array/MaximumDifference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/famous_interview/array/MaximumDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/famous_interview/array/MaximumDifference.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +55,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -75,7 +81,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.42446044" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -87,7 +93,7 @@
       <recent name="gfg.tree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KMP">
+  <component name="RunManager" selected="Application.MergeSort">
     <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="famous_interview.string.KMP" />
       <module name="DSA" />
@@ -101,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="famous_interview.array.MaximumDifference" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="famous_interview.sort.MergeSort" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="famous_interview.array.*" />
+          <option name="PATTERN" value="famous_interview.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cracking_the_coding_interview.Array_String.Solution2" />
+    <configuration name="PartitionByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="famous_interview.linklist.PartitionByValue" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cracking_the_coding_interview.Array_String.*" />
+          <option name="PATTERN" value="famous_interview.linklist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StockBuyAndSell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="famous_interview.array.StockBuyAndSell" />
+    <configuration name="ReverseInGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="famous_interview.linklist.ReverseInGroups" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="famous_interview.array.*" />
+          <option name="PATTERN" value="famous_interview.linklist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,20 +173,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution2" />
-      <item itemvalue="Application.MaximumDifference" />
-      <item itemvalue="Application.StockBuyAndSell" />
       <item itemvalue="Application.TrappingRainWater" />
       <item itemvalue="Application.KMP" />
+      <item itemvalue="Application.ReverseInGroups" />
+      <item itemvalue="Application.PartitionByValue" />
       <item itemvalue="Java Scratch.Unnamed" />
+      <item itemvalue="Application.MergeSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.PartitionByValue" />
+        <item itemvalue="Application.ReverseInGroups" />
         <item itemvalue="Application.KMP" />
         <item itemvalue="Application.TrappingRainWater" />
-        <item itemvalue="Application.StockBuyAndSell" />
-        <item itemvalue="Application.MaximumDifference" />
-        <item itemvalue="Application.Solution2" />
       </list>
     </recent_temporary>
   </component>
@@ -219,6 +225,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Kmp algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kmp algorithm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
