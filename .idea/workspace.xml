@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef6ca4ed-79ac-4571-9b13-ce0cadfe321f" name="Default Changelist" comment="Kmp algorithm">
-      <change afterPath="$PROJECT_DIR$/src/famous_interview/linklist/PartitionByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/famous_interview/linklist/ReverseInGroups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/famous_interview/searching/RotatedSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/famous_interview/sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/famous_interview/sort/MergeOverlapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/famous_interview/sort/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/famous_interview/array/MaximumDifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/famous_interview/array/MaximumDifference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/famous_interview/array/MaximumDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/famous_interview/array/MaximumDifference.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,13 +89,13 @@
       <recent name="gfg.tree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeSort">
-    <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="famous_interview.string.KMP" />
+  <component name="RunManager" selected="Application.MergeOverlapping">
+    <configuration name="MergeOverlapping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="famous_interview.sort.MergeOverlapping" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="famous_interview.string.*" />
+          <option name="PATTERN" value="famous_interview.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="famous_interview.linklist.ReverseInGroups" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="famous_interview.sort.QuickSort" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="famous_interview.linklist.*" />
+          <option name="PATTERN" value="famous_interview.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="famous_interview.array.TrappingRainWater" />
+    <configuration name="ReverseInGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="famous_interview.linklist.ReverseInGroups" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="famous_interview.array.*" />
+          <option name="PATTERN" value="famous_interview.linklist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,20 +169,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TrappingRainWater" />
-      <item itemvalue="Application.KMP" />
       <item itemvalue="Application.ReverseInGroups" />
       <item itemvalue="Application.PartitionByValue" />
       <item itemvalue="Java Scratch.Unnamed" />
       <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.MergeOverlapping" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeOverlapping" />
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.PartitionByValue" />
         <item itemvalue="Application.ReverseInGroups" />
-        <item itemvalue="Application.KMP" />
-        <item itemvalue="Application.TrappingRainWater" />
       </list>
     </recent_temporary>
   </component>
