@@ -20,9 +20,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef6ca4ed-79ac-4571-9b13-ce0cadfe321f" name="Default Changelist" comment="Kmp algorithm">
-      <change afterPath="$PROJECT_DIR$/src/famous_interview/sort/MergeOverlapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/famous_interview/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-reflect.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/kotlin-test.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/gfg/ZerosAtEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/famous_interview/sort/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/famous_interview/stack/NextGreaterElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/famous_interview/stack/ParenthesisFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/famous_interview/stack/PreviousGreater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/famous_interview/stack/SpanProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlin/dsl/DslTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kotlin/dsl/KotlinDslTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/utils/CommonUsedUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/utils/CommonUsedUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/CommonUsedUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/CommonUsedUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +51,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -62,11 +81,15 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1gz4c9dW5xZyLZbYWuM0HSCRnVq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SearchEverywhereHistoryKey" value="Bina&#9;FILE&#9;file:///Users/bishal/Desktop/Bishal_Project/Git_Projects/DSA/src/tree/BinaryTreeMain.java&#10;Trip&#9;PSI&#9;JAVA://Searching.TripletSum&#10;Tower&#9;PSI&#9;JAVA://recursion.TowerOfHanoi&#10;Sto&#9;FILE&#9;file:///Users/bishal/Desktop/Bishal_Project/Git_Projects/DSA/src/Arrays/StockBuyProblemPart1.java&#10;Stock&#9;PSI&#9;JAVA://Stack.StockSpanProblem&#10;Stoc&#9;PSI&#9;JAVA://Arrays.StockBuyProblemPart1" />
@@ -89,9 +112,9 @@
       <recent name="gfg.tree" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeOverlapping">
-    <configuration name="MergeOverlapping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="famous_interview.sort.MergeOverlapping" />
+  <component name="RunManager" selected="Application.ZerosAtEnd">
+    <configuration name="CountingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="famous_interview.sort.CountingSort" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -103,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="famous_interview.sort.MergeSort" />
+    <configuration name="NextGreaterElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="famous_interview.stack.NextGreaterElement" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="famous_interview.sort.*" />
+          <option name="PATTERN" value="famous_interview.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PartitionByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="famous_interview.linklist.PartitionByValue" />
+    <configuration name="PreviousGreater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="famous_interview.stack.PreviousGreater" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="famous_interview.linklist.*" />
+          <option name="PATTERN" value="famous_interview.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="famous_interview.sort.QuickSort" />
+    <configuration name="SpanProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="famous_interview.stack.SpanProblem" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="famous_interview.sort.*" />
+          <option name="PATTERN" value="famous_interview.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="famous_interview.linklist.ReverseInGroups" />
+    <configuration name="ZerosAtEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.gfg.ZerosAtEnd" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="famous_interview.linklist.*" />
+          <option name="PATTERN" value="Arrays.gfg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,20 +192,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReverseInGroups" />
-      <item itemvalue="Application.PartitionByValue" />
+      <item itemvalue="Application.CountingSort" />
+      <item itemvalue="Application.SpanProblem" />
+      <item itemvalue="Application.PreviousGreater" />
+      <item itemvalue="Application.NextGreaterElement" />
+      <item itemvalue="Application.ZerosAtEnd" />
       <item itemvalue="Java Scratch.Unnamed" />
-      <item itemvalue="Application.MergeSort" />
-      <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.MergeOverlapping" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MergeOverlapping" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.PartitionByValue" />
-        <item itemvalue="Application.ReverseInGroups" />
+        <item itemvalue="Application.ZerosAtEnd" />
+        <item itemvalue="Application.NextGreaterElement" />
+        <item itemvalue="Application.PreviousGreater" />
+        <item itemvalue="Application.SpanProblem" />
+        <item itemvalue="Application.CountingSort" />
       </list>
     </recent_temporary>
   </component>
@@ -220,9 +243,9 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Kmp algorithm" />
     <option name="LAST_COMMIT_MESSAGE" value="Kmp algorithm" />
   </component>
