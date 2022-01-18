@@ -8,7 +8,10 @@ public class LinkListOperations {
         linkList.insertBegin(1);
         linkList.insertBegin(2);
         linkList.insertBegin(3);
+        linkList.insertBegin(3);
+        linkList.insertBegin(1);
         linkList.display();
+        linkList.condense(linkList.getHead());
         System.out.println(linkList.getTheMiddleElementInALinklist());
         System.out.println("The "+ k +"th element is: " + linkList.getNthNodeOfTheLinkList(k) );
 
@@ -46,7 +49,9 @@ public class LinkListOperations {
         System.out.println("The "+ k +"th element is: " + linkList.getNthNodeOfTheLinkList(k) );
         linkList.deleteValue(-10);
         linkList.display();
-        System.out.println("---------------------Swap--------------------");
+        System.out.println("---------------------Swap9999--------------------");
+        PairwiseSwapNodes.swapNodes(linkList);
+        linkList.display();
         PairwiseSwapNodes.swapNodes(linkList);
         linkList.display();
         System.out.println("Segregate----------------------------");

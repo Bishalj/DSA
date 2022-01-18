@@ -2,8 +2,8 @@ package graph;
 
 import utils.CommonUsedUtils;
 
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class Graph {
 
@@ -180,6 +180,25 @@ public class Graph {
         }
     }
 
+    public boolean topology(int source, boolean visited[], Stack<Integer> stack) {
+        System.out.println(source);
+        visited[source] = true;
+        LinkedList<Integer> edges = adjacentList[source];
+        while (vertexIsNotVisited(edges.isEmpty())){
+            int vertex = edges.poll();
+            if(vertexIsNotVisited(visited[vertex])){
+                return false || detectACycleInDirectedGraph(vertex, visited);
+            }else {
+                return true;
+            }
+        }
+
+
+
+
+
+        return false;
+    }
 
 
     private boolean vertexIsNotVisited(boolean b) {

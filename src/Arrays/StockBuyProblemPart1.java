@@ -3,36 +3,8 @@ package Arrays;
 public class StockBuyProblemPart1 {
 
     public static void main(String[] args) {
-        int arr[] = {688,
-                7369,
-                7917,
-                9917,
-                6996,
-                3324,
-                7743,
-                9470,
-                2183,
-                8490,
-                5499,
-                9772,
-                6725,
-                5644,
-                5590,
-                7505,
-                8139,
-                2954,
-                9786,
-                7669,
-                8082,
-                8542,
-                8464,
-                197,
-                9507,
-                9355,
-                8804,
-                6348,
-                8611};
-        getAllProfitsOfStock(arr, arr.length);
+        int arr[] = {57,69,12,59,5,9,29,29,99};
+        stockBuySell(arr, arr.length);
     }
 
     private static void getAllProfitsOfStock(int[] price, int n) {
@@ -58,5 +30,28 @@ public class StockBuyProblemPart1 {
 
     private static boolean isProfitAvailable(int max, int min) {
         return max != min;
+    }
+
+    static void stockBuySell(int price[], int n) {
+        int boughtIndex = 0;
+        int sellIndex = 0;
+        for(int i=0; i<price.length-1;i++){
+            if(price[i] < price[i+1])
+                sellIndex++;
+            else{
+                if(price[i] != price[i+1]) {
+                    if (boughtIndex != sellIndex)
+                        System.out.print("(" + boughtIndex + " " + sellIndex + ") ");
+                    boughtIndex = i + 1;
+                    sellIndex = i + 1;
+                }else{
+                    sellIndex++;
+                }
+            }
+        }
+
+        if(boughtIndex != sellIndex)
+            System.out.print("(" + boughtIndex + " " + sellIndex + ") ");
+
     }
 }

@@ -497,6 +497,13 @@ class BinaryTreeOperations{
             return rightHeight + 1;
     }
 
+    public int getTheHeightOfTheTree2(Nodes nodes) {
+        if(nodes == null)
+            return 0;
+
+        return 1 + Math.max(getTheHeightOfTheTree2(nodes.left), getTheHeightOfTheTree2(nodes.right));
+    }
+
     public int getLowestCommonAncestor(Nodes node1, Nodes node2){
         Nodes nodes = root;
         return getLowestCommonAncestor(nodes, node1, node2);
@@ -610,6 +617,32 @@ class BinaryTreeOperations{
             node = node.left;
         }
         return count;
+    }
+
+    public void printLeftView(){
+        Nodes node = root;
+        leftView(node);
+    }
+
+    private void leftView(Nodes node) {
+
+        if(node == null)
+            return;
+
+        Queue<Nodes> queue = new LinkedList<>();
+        queue.add(node);
+        while(queue.isEmpty() == false){
+            int size = queue.size();
+            for(int i=1; i<=size; i++){
+                Nodes data = queue.poll();
+                if(i==1)
+                    System.out.print(data.data+" ");
+                if(data != null && data.left != null)
+                    queue.add(data.left);
+                if(data != null && data.right != null)
+                    queue.add(data.right);
+            }
+        }
     }
 
 
