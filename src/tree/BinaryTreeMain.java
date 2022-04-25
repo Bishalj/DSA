@@ -69,6 +69,8 @@ public class BinaryTreeMain {
         nodes1.right = nodes3;
         binaryTreeOperations.setRoot(nodes1);
         binaryTreeOperations.levelOrderTraversalUsingQueueLineWise();
+        System.out.println("--------------------Left View----------------");
+        binaryTreeOperations.printLeftView();
         System.out.println();
         System.out.println(binaryTreeOperations.isChildrenSumProperty());
         System.out.println(binaryTreeOperations.treeIsABalancedTree());
@@ -88,6 +90,7 @@ public class BinaryTreeMain {
         binaryTreeOperations.postOrderTraversal(nodes);
         System.out.println();
         System.out.println("Height of the tree: " + binaryTreeOperations.getTheHeightOfTheTree(nodes));
+        System.out.println("Height of the tree: " + binaryTreeOperations.getTheHeightOfTheTree2(nodes));
         System.out.println();
         System.out.println(binaryTreeOperations.getTheDiameterOfTheTree(nodes));
 
