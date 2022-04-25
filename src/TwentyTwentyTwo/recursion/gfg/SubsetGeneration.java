@@ -1,4 +1,4 @@
-package access_specifiers.com;
+package TwentyTwentyTwo.recursion.gfg;
 
 class SubsetGeneration{
 
