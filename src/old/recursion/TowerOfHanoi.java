@@ -3,10 +3,10 @@ package old.recursion;
 public class TowerOfHanoi {
 
     public static void main(String[] args) {
-        int n = 4;
+        int n = 3;
         String from = "A", to = "C", aux = "B";
 
-        pothOfMovements(n, from, to, aux);
+        pathOfMovements(n, from, aux, to);
 
 
     }
@@ -18,5 +18,15 @@ public class TowerOfHanoi {
         pothOfMovements(n-1, from, aux, to);
         System.out.println(from + " --> "+ to);
         pothOfMovements(n-1, aux, to, from);
+    }
+
+
+    private static void pathOfMovements(int n, String a, String b, String c) {
+        if(n == 0)
+            return;
+
+        pathOfMovements(n-1, a, c, b);
+        System.out.println(a + " --> "+ c);
+        pathOfMovements(n-1, b, a, c);
     }
 }
