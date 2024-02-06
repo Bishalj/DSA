@@ -1,10 +1,13 @@
 package prepare.graph;
 
-public class QuickUnionRank {
+import java.util.ArrayList;
+import java.util.List;
+
+public class QuickUnionRankPathCompression {
 	private final int[] root;
 	private final int[] rank;
 
-	public QuickUnionRank(int vertex){
+	public QuickUnionRankPathCompression(int vertex){
 		root = new int[vertex];
 		rank = new int[vertex];
 		for (int i = 0; i < vertex; i++) {
@@ -14,10 +17,9 @@ public class QuickUnionRank {
 	}
 
 	public int find(int x){
-		while (x != root[x]) {
-			x = root[x];
-		}
-		return x;
+		if(x == root[x])
+			return x;
+		return root[x] = find(root[x]);
 	}
 
 	public void union(int x, int y){
@@ -43,7 +45,7 @@ public class QuickUnionRank {
 	}
 
 	public static void main(String[] args) {
-		QuickUnionRank quickUnion = new QuickUnionRank(5);
+		QuickUnionRankPathCompression quickUnion = new QuickUnionRankPathCompression(5);
 		quickUnion.union(0,2);
 		quickUnion.union(1,3);
 		quickUnion.union(3,2);
@@ -59,3 +61,22 @@ public class QuickUnionRank {
 }
 
 
+class Solution {
+	public List<Integer> sequentialDigits(int low, int high) {
+		int lowLength = String.valueOf(low).length();
+		int highLength = String.valueOf(high).length();
+		List<Integer> list = new ArrayList();
+
+		while(lowLength<=highLength){
+			for(int i=0; i<=9-lowLength; i++){
+				long divisor = (long) Math.pow(10, lowLength-i);
+				long modular = (long) Math.pow(10,9-i);
+				double data = (123456789%modular)/divisor;
+				if(data >= low && data <= high)
+					list.add((int)(data));
+			}
+			lowLength++;
+		}
+		return list;
+	}
+}
