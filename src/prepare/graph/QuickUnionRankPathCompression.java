@@ -38,9 +38,9 @@ public class QuickUnionRankPathCompression {
 	}
 
 	public boolean isConnected(int x, int y){
-		for (int data : root)
+		/*for (int data : root)
 			System.out.print(data+" ");
-		System.out.println();
+		System.out.println();*/
 		return find(x) == find(y);
 	}
 
@@ -61,22 +61,16 @@ public class QuickUnionRankPathCompression {
 }
 
 
-class Solution {
-	public List<Integer> sequentialDigits(int low, int high) {
-		int lowLength = String.valueOf(low).length();
-		int highLength = String.valueOf(high).length();
-		List<Integer> list = new ArrayList();
+class RoomDetails{
+	int roomNumber;
+	int meetingIndex;
+	int meetingDuration;
 
-		while(lowLength<=highLength){
-			for(int i=0; i<=9-lowLength; i++){
-				long divisor = (long) Math.pow(10, lowLength-i);
-				long modular = (long) Math.pow(10,9-i);
-				double data = (123456789%modular)/divisor;
-				if(data >= low && data <= high)
-					list.add((int)(data));
-			}
-			lowLength++;
-		}
-		return list;
+	public RoomDetails(int roomNumber, int meetingIndex, int meetingDuration){
+		this.roomNumber = roomNumber;
+		this.meetingIndex = meetingIndex;
+		this.meetingDuration = meetingDuration;
 	}
+
+
 }

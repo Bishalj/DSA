@@ -3,10 +3,10 @@ package prepare.graph;
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+class Solution2 {
 
 	public static void main(String[] args) {
-		Solution solution = new Solution();
+		Solution2 solution = new Solution2();
 		int edges[][] = {
 				{0,1},
 				{1,2},

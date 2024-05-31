@@ -1,0 +1,15 @@
+Good Graph Question:
+
+1. Reconstruct Itinerary.
+2. All Paths from Source Lead to Destination
+- `QuickUnionRankPathCompression`
+- Detect a cycle using union find in a graph
+- **1091. Shortest Path in Binary Matrix**
+- **Rotting Oranges**
+- **Min Cost to Connect All Points**
+- Krushkal’s algorithm
+- Prim’s algorithm
+- Topology sorting : 210. Course Schedule II, 310. Minimum Height Trees
+- Dikstra Algorithm
+- 787. Cheapest Flights Within K Stops - Bellman Ford
+- 1631. Path With Minimum Effort

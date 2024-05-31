@@ -1,0 +1,10 @@
+
+Good Heap Question:
+
+1. Create a heap with insertion and deletion
+2. 215. Kth Largest Element in an Array
+3. 378. Kth Smallest Element in a Sorted Matrix (Use Binary search)
+4. 253. Meeting Rooms II
+5. 2402. Meeting Rooms III
+6. 1642. Furthest Building You Can Reach
+7. 295. Find Median from Data Stream

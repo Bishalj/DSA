@@ -1,0 +1,43 @@
+## Functional Requirement
+1. Create a tiny url for a long url
+2. On clicking the tiny url the exact page should open
+3. Expiry time for tiny url
+4. User based access for tiny url
+5. Custom name based tiny url
+
+
+## Non Functional Requirement
+1. Scalable
+2. Highly Available
+
+## Bandwidth estimation
+
+Around 1 million user creating tiny url
+Network Estimations:
+considering maximum traffic for 8hr * 80% -> 8Lakhs/8hr -> 28req/sec
+
+Memory Estimations:
+
+url_details
+id - auto generated(10*8)
+unique_id - (10*8)
+actual_url - (2048*8)
+user_id - (10*8(
+created_on - (8Bytes)
+expiry_time - (8Bytes)
+16kb ~
+total -> 6trillion GB
+
+## Decision on DB
+- Mongo will be preferable for high availablity
+- We can use sql too with proper sharding.
+
+High level design
+- Unique id creation -> base62 + counter
+- We will have a service which will create the tiny url
+- we will use cache(redis) to handle the duplicacy of the unique_id
+
+
+APIs:
+- POST Get timy url
+- GET open tiny url

@@ -204,7 +204,26 @@ public class Heap {
 
   public static void main(String[] args) {
 	  Heap heap = new Heap(6);
+	  heap.add(1);
+	  heap.add(5);
 	  heap.add(10);
+	  heap.add(2);
+	  heap.add(6);
+	  heap.add(9);
+	  heap.add(11);
+	  heap.add(12);
+	  heap.deleteMinimum();
+	  heap.deleteMinimum();
+
+	  heap.add(12);
+	  heap.add(3);
+	  heap.deleteMinimum();
+	  heap.deleteMinimum();
+	  heap.deleteMinimum();
+	  heap.deleteMinimum();
+	  heap.deleteMinimum();
+	  heap.deleteMinimum();
+	 /* heap.add(10);
 	  heap.add(80);
 	  heap.add(15);
 	  heap.add(100);
@@ -241,6 +260,6 @@ public class Heap {
 	  heap.kClosetElement(arr3, 3, 2);
 
 	  int m[] = {25, 7, 10, 15, 20};
-	  heap.medianOfAStream(m);
+	  heap.medianOfAStream(m);*/
   }
 }

@@ -1,0 +1,90 @@
+
+
+Functional Requirements
+1. Display Theatre (location and city
+2. Movies
+3. Movie timings
+4. Threatre hall Seat display
+5. Booking seats for movie
+6. User login details
+7. Notification for the movie booking
+8. Addon food selection for the movie
+
+
+Non-Function Requirement:
+1. Scalable
+2. Handling concurrent request
+3. Region where we are going to show the movies
+4. Type of users going to book movie -> IOS / web
+
+
+On an average if i consider 10 movies every week:
+and 100 seats per movie
+total 10000 cinema halls
+
+10000*100*10 -> 1cr users
+
+if i consider the peak time hours of 8hrs for 80% of traffic -> 80Laks/8hr -> tps = 10000/6*6 -> 277req/sec
+
+
+Main elements for a ticket booking system
+
+-> API to give the list of location
+-> API to give all the movies details for that location
+-> API to get the list of all the theatre for that location + show timings
+-> API to give thhe list of all the seat for that movie, theatre & show
+
+No SQL
+
+Locations:
+LocationId
+City Name
+State Name
+createdOn
+updatedOn
+
+Movies
+movieId
+Movie Name
+Movie Description
+castDetails : [
+    {
+        actorName:
+        description
+        screenName:
+        otherDetails
+    }
+]
+Movie Image: [s3Link]
+Movie trailer links: []
+releaseDate:
+createdOn:
+updatedOn:
+
+
+TheatreDetails:
+theatreId
+theatreName
+location
+screenDetails : [
+{
+screenId
+screenName:
+total seats:
+seat details : A:status:acquireLock, time::,B,C.....D
+}]
+
+
+ShowTimings -
+theatreId, MovieId, showStartTime
+
+intiateBookMovie(movieId, theatreId, seatDetails, showDetails){
+
+
+
+
+
+
+
+
+

@@ -107,7 +107,7 @@ class GFG {
         return pivotIndex;
     }
 
-    private static void swapElements(int array[], int indexOne, int indexTwo) {
+    public static void swapElements(int array[], int indexOne, int indexTwo) {
         int temp = array[indexOne];
         array[indexOne] = array[indexTwo];
         array[indexTwo] = temp;

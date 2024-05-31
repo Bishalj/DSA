@@ -1,0 +1,14 @@
+Good Tree Question:
+
+1. Validate Binary search tree.
+2. 285. Inorder Successor in BST
+3. BST iterator (stack)
+4. 450. Delete Node in a BST
+5. Lowest Common ancestor (using BST properties)
+6. 220. Contains Duplicate III (Good question)
+7. 110. Balanced Binary Tree
+8. 108. Convert Sorted Array to Binary
+9. 979. Distribute Coins in Binary Tree
+
+
+TreeSet Use case : If we need the data in a sorted manner to manage the size k (BST with height balanced)

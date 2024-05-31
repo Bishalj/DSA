@@ -1,0 +1,6 @@
+
+Good Heap Question:
+
+1. Count Inversion in an Array
+2. Sort an array of 0s, 1s and 2s || Three way partitioning || Partition around a range
+3. Meeting the maximum guest

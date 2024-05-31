@@ -140,13 +140,13 @@ public class UniqueCharacters {
 
 class Solution {
 	public List<Integer> findClosestElements(int[] arr, int k, int x) {
-		Comparator<Pair> comparator = (p1,p2) -> {
+		Comparator<Pair<Integer, Integer>> comparator = (p1,p2) -> {
 			if(p1.getKey() == p2.getKey())
 			return p2.getValue() < p1.getValue() ? 1 : -1;
 			else
 			return p2.getKey() < p1.getKey() ? 1 : -1;
 		};
-		PriorityQueue<Pair> pq = new PriorityQueue(k,comparator);
+		PriorityQueue<Pair<Integer, Integer>> pq = new PriorityQueue(k,comparator);
 
 		for(int i=0; i<arr.length; i++){
 			pq.add(new Pair(Math.abs(arr[i] - x), i));
@@ -154,7 +154,7 @@ class Solution {
 		Set<Integer> set = new HashSet();
 		while(pq.isEmpty() == false){
 			Pair data = pq.poll();
-			set.add(data.getValue());
+			set.add((Integer) data.getValue());
 		}
 		List<Integer> result = new ArrayList();
 		for(int i=0; i<arr.length; i++){
@@ -162,32 +162,6 @@ class Solution {
 				result.add(arr[i]);
 		}
 		return result;
-	}
-}
-
-class Pair{
-	private int key;
-	private int value;
-
-	public Pair(int key, int value) {
-		this.key = key;
-		this.value = value;
-	}
-
-	public int getKey() {
-		return key;
-	}
-
-	public void setKey(int key) {
-		this.key = key;
-	}
-
-	public int getValue() {
-		return value;
-	}
-
-	public void setValue(int value) {
-		this.value = value;
 	}
 }
 

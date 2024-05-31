@@ -1,0 +1,12 @@
+Good Question:
+
+1. 238. Product of Array Except Self (easy)
+2. sort an array
+	int []nums = Arrays.stream(nums)
+				.boxed()
+				.sorted(Collections.reverseOrder())
+				.mapToInt(Integer::intValue)
+				.toArray();
+
+3. 239. Sliding Window Maximum
+4.  Minimum Window Substring
