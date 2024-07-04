@@ -1,0 +1,116 @@
+Requiremnet : Design Twitter
+
+
+1. Functional Requirement
+    1. User profile
+    2. Create a new Post
+    3. View all post text/images
+    4. Manage Followers
+    5. Like and comment
+    6. Search people / post, etc
+    7. Share post.
+
+
+2. Non Functional Requirement
+    1. High Availability
+    2. Scalable
+    3. Telemetry
+
+3. Bandwidth Estimation:
+    - write-read ratio 1:10
+    - Suppose we are getting 10 Million users daily and assuming 80% of the request coming in 10hr
+    ~ 250 req/sec
+
+    capacity estimations:
+    - User details
+    - Post details txt to image ratio if we assume 10:1
+        - text : 10kb - 9GB/day (20TB)
+        - images : 2mb - .2 TB/day (365TB)
+        Total space - 385TB
+
+
+4. System APIs
+    Create a new post
+    view all the post
+    sha
+4. Data Models
+
+User:
+Id
+name
+bio
+location
+created_on
+modified_on
+
+
+
+Followers
+followerId
+followeeId
+
+
+Post Table
+id
+userId
+postType : images|text
+message
+created_on
+modified_on
+imagesUrl : [1,2,3,45,6,7,8,9]
+likes_count :
+
+
+
+Post_info
+post_id
+comment_id
+comment_message
+created_on
+modified_on
+
+
+
+Post_Reply
+reply_id
+comment_id
+reply_message
+reply_tyope : image/txt
+image_links : []
+
+
+
+create a user
+POST api/v1/user
+name
+email
+mobile
+
+
+Create a Post api/v1/post
+title
+message
+type
+userId
+
+
+- Show all posts on home page
+get /api/posts
+
+- Fetches the following details from user management service
+- We can have a pre-build cache which gets updated whenever a user follows or unfollows an account.
+- Searching in post table to get all the post based on expiry date and pagination for the given user id
+
+
+add new comment
+POST post/id/comment
+
+GET /api/post/post_id/comments
+from the post_comment table get all the comments based on that id
+
+
+
+
+
+
+

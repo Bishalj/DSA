@@ -1,0 +1,77 @@
+System Design interview
+
+1. Functional Requirement
+
+
+2.Non Functional Requirement
+    - The system should be highly available.
+    -
+
+    Extended Requirement
+    Analytics; e.g., how many times a redirection happened?
+    Our service should also be accessible through REST APIs by other services.
+
+
+
+3. Capacity Estimations
+    i. Network Estimation
+        - Read write ratios
+
+    ii. Memory Estimation
+        - DB Estimates
+            - You can take ballpark estimates of bytes of 1 row. Suppose 500kb
+            - Max storage required for 5 years
+        - Cahce Estimates - Assuming 20% of ghe records will be cached
+
+4. System APIs:
+    - createURL(api_dev_key, original_url, custom_alias=None, user_name=None, expire_date=None)
+    - deleteURL(api_dev_key, url_key)
+
+5. Database Design
+SQL VS. NoSQL - Which one to use?
+SQL:
+- We need to ensure ACID compliance.
+- Your data is structured and unchanging
+No-SQL
+- Storing large volumes of data that often have little to no structure
+- High Availability/ easily scalable
+- Frequent table updates
+- You need high performance, particularly read performance:
+
+
+
+6. Basic System Design and Algorithm (Explaining the design)
+
+Creating a high level diagram
+Cache eviction policy : LRU
+
+7. Data Partitioning and Replication
+
+
+8. Cache
+Cache eviction policies
+Following are some of the most common cache eviction policies:
+
+- First In First Out (FIFO): The cache evicts the first block accessed first without any regard to how often or how many times it was accessed before.
+- Last In First Out (LIFO): The cache evicts the block accessed most recently first without any regard to how often or how many times it was accessed before.
+- Least Recently Used (LRU): Discards the least recently used items first.
+- Most Recently Used (MRU): Discards, in contrast to LRU, the most recently used items first.
+- Least Frequently Used (LFU): Counts how often an item is needed. Those that are used least often are discarded first.
+- Random Replacement (RR): Randomly selects a candidate item and discards it to make space when necessary.
+
+9. Load Balancer (LB)
+We can add a Load balancing layer at three places in our system:
+Between Clients and Application servers
+Between Application Servers and database servers
+Between Application Servers and Cache servers
+
+
+10. Purging or DB cleanup
+
+11. Security and Permissions
+
+12. Analytics and stats
+
+
+
+
